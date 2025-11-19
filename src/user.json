@@ -1,8 +1,7 @@
 {
   "currentUser": {
     "name": "BRUNO SKENDAJ",
-    "id": "247$6420",
-    "profileImage": "https://example.com/profiles/247$6420.jpg"
+    "id": "247$6420"
   },
   "organizationalHierarchy": {
     "ceo": {
@@ -12,8 +11,7 @@
       "location": "MILANO_P.ZZA LUIGI EINAUDI",
       "relationship": "indirect",
       "skills": ["Leadership", "Strategic Planning", "Business Development"],
-      "teamSize": 17,
-      "profileImage": "https://example.com/profiles/247$3572.jpg"
+      "teamSize": 17
     },
     "executive": {
       "name": "TOMMASO GIOVANNI COHEN",
@@ -21,9 +19,12 @@
       "department": "Finance Marketing & Technology",
       "location": "PESARO",
       "relationship": "indirect",
-      "skills": ["Corporate Strategy", "Financial Management", "Technology Innovation"],
-      "teamSize": 7,
-      "profileImage": "https://example.com/profiles/247$3554.jpg"
+      "skills": [
+        "Corporate Strategy",
+        "Financial Management",
+        "Technology Innovation"
+      ],
+      "teamSize": 7
     },
     "departmentHead": {
       "name": "BRUNO FONZI",
@@ -31,9 +32,12 @@
       "department": "Finance Marketing & Technology",
       "location": "MILANO_P.ZZA LUIGI EINAUDI",
       "relationship": "indirect",
-      "skills": ["Department Management", "Cross-functional Leadership", "Operational Excellence"],
-      "teamSize": 12,
-      "profileImage": "https://example.com/profiles/247$3628.jpg"
+      "skills": [
+        "Department Management",
+        "Cross-functional Leadership",
+        "Operational Excellence"
+      ],
+      "teamSize": 12
     },
     "engineeringManager": {
       "name": "LUCA DANDRIA",
@@ -41,9 +45,12 @@
       "department": "Engineering Manager",
       "location": "MILANO_P.ZZA LUIGI EINAUDI",
       "relationship": "indirect",
-      "skills": ["Team Leadership", "Project Management", "Software Development"],
-      "teamSize": 3,
-      "profileImage": "https://example.com/profiles/247$6963.jpg"
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Software Development"
+      ],
+      "teamSize": 3
     },
     "directManager": {
       "name": "ELIS PELIVANI",
@@ -51,9 +58,13 @@
       "department": "Engineering Micro",
       "location": "TIRANA_KOMPLEKSI DELIJORGJI",
       "relationship": "direct",
-      "skills": ["Software Architecture", "Code Review", "Mentorship","Department Management"],
-      "teamSize": 76,
-      "profileImage": "https://example.com/profiles/247$3718.jpg"
+      "skills": [
+        "Software Architecture",
+        "Code Review",
+        "Mentorship",
+        "Department Management"
+      ],
+      "teamSize": 76
     },
     "self": {
       "name": "BRUNO SKENDAJ",
@@ -61,8 +72,7 @@
       "department": "Engineering TeamSystem Tirana - Professional & Cross",
       "location": "TIRANA_KOMPLEKSI DELIJORGJI",
       "relationship": "self",
-      "teamSize": 0,
-      "profileImage": "https://example.com/profiles/247$6420.jpg"
+      "teamSize": 0
     },
     "peers": [
       {
@@ -72,8 +82,7 @@
         "location": "TIRANA_KOMPLEKSI DELIJORGJI",
         "relationship": "peer",
         "teamSize": 29,
-        "hasSubordinates": true,
-        "profileImage": "https://example.com/profiles/247$3666.jpg"
+        "hasSubordinates": true
       },
       {
         "name": "KLAUS KALEMI",
@@ -82,8 +91,7 @@
         "location": "TIRANA_KOMPLEKSI DELIJORGJI",
         "relationship": "peer",
         "teamSize": 32,
-        "hasSubordinates": true,
-        "profileImage": "https://example.com/profiles/247$4924.jpg"
+        "hasSubordinates": true
       }
     ]
   },
@@ -94,8 +102,7 @@
       "role": "Engineering Lead - Direct Manager",
       "department": "Engineering Micro",
       "location": "TIRANA_KOMPLEKSI DELIJORGJI",
-      "escalationType": "technical",
-      "profileImage": "https://example.com/profiles/247$3718.jpg"
+      "escalationType": "technical"
     },
     {
       "level": 2,
@@ -103,8 +110,7 @@
       "role": "Engineering Manager",
       "department": "Engineering Manager",
       "location": "MILANO_P.ZZA LUIGI EINAUDI",
-      "escalationType": "engineering",
-      "profileImage": "https://example.com/profiles/247$6963.jpg"
+      "escalationType": "engineering"
     },
     {
       "level": 3,
@@ -112,8 +118,7 @@
       "role": "Department Leader",
       "department": "Finance Marketing & Technology",
       "location": "MILANO_P.ZZA LUIGI EINAUDI",
-      "escalationType": "departmental",
-      "profileImage": "https://example.com/profiles/247$3628.jpg"
+      "escalationType": "departmental"
     },
     {
       "level": 4,
@@ -121,8 +126,7 @@
       "role": "Executive",
       "department": "Finance Marketing & Technology",
       "location": "PESARO",
-      "escalationType": "executive",
-      "profileImage": "https://example.com/profiles/247$3554.jpg"
+      "escalationType": "executive"
     },
     {
       "level": 5,
@@ -130,8 +134,7 @@
       "role": "CEO",
       "department": "Teamsystem Group",
       "location": "MILANO_P.ZZA LUIGI EINAUDI",
-      "escalationType": "ceo",
-      "profileImage": "https://example.com/profiles/247$3572.jpg"
+      "escalationType": "ceo"
     }
   ],
   "parallelContacts": {
@@ -139,8 +142,7 @@
       "name": "ELEONORA TONELLI",
       "role": "Human Resources",
       "relationship": "parallel",
-      "supportType": "People / Processes",
-      "profileImage": "https://example.com/profiles/hr_eleonora_tonelli.jpg"
+      "supportType": "People / Processes"
     }
   },
   "projectContext": {

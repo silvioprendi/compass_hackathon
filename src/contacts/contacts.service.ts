@@ -14,7 +14,6 @@ export interface Contact {
   skills: string[];
   expertise: string[];
   teamSize: number;
-  profileImage: string;
   email: string;
   supportType?: string;
   specialization?: string;

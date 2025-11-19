@@ -16,7 +16,6 @@
       "cyber security",
       "authentication"
     ],
-    "profileImage": "https://example.com/profiles/247$6420.jpg",
     "email": "b.skendaj@teamsystem.com"
   },
   "contacts": [
@@ -37,7 +36,6 @@
         "engineering"
       ],
       "teamSize": 76,
-      "profileImage": "https://example.com/profiles/247$3718.jpg",
       "email": "e.pelivani@teamsystem.com"
     },
     {
@@ -64,7 +62,6 @@
         "team leadership"
       ],
       "teamSize": 29,
-      "profileImage": "https://example.com/profiles/247$3666.jpg",
       "email": "i.hysaj@teamsystem.com"
     },
     {
@@ -90,7 +87,6 @@
         "team leadership"
       ],
       "teamSize": 32,
-      "profileImage": "https://example.com/profiles/247$4924.jpg",
       "email": "k.kalemi@teamsystem.com"
     },
     {
@@ -115,7 +111,6 @@
         "technical management"
       ],
       "teamSize": 3,
-      "profileImage": "https://example.com/profiles/247$6963.jpg",
       "email": "l.dandria@teamsystem.com"
     },
     {
@@ -139,7 +134,6 @@
         "leadership"
       ],
       "teamSize": 12,
-      "profileImage": "https://example.com/profiles/247$3628.jpg",
       "email": "b.fonzi@teamsystem.com"
     },
     {
@@ -164,7 +158,6 @@
         "corporate strategy"
       ],
       "teamSize": 7,
-      "profileImage": "https://example.com/profiles/247$3554.jpg",
       "email": "t.cohen@teamsystem.com"
     },
     {
@@ -184,7 +177,6 @@
         "executive decisions"
       ],
       "teamSize": 17,
-      "profileImage": "https://example.com/profiles/247$3572.jpg",
       "email": "f.leproux@teamsystem.com"
     },
     {
@@ -209,7 +201,6 @@
         "processes"
       ],
       "teamSize": 5,
-      "profileImage": "https://example.com/profiles/hr_eleonora_tonelli.jpg",
       "email": "e.tonelli@teamsystem.com",
       "supportType": "People / Processes"
     },
@@ -236,7 +227,6 @@
         "frontend architecture"
       ],
       "teamSize": 0,
-      "profileImage": "https://example.com/profiles/tech_enea_aliko.jpg",
       "email": "e.aliko@teamsystem.com",
       "specialization": "Vapor Library"
     }
