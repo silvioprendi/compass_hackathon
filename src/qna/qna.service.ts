@@ -52,7 +52,7 @@ export class QnAService {
   }
 
   ask(question: string, currentUserId?: string): QnAResponse {
-    const searchTerm = question.toLowerCase().trim();
+    const searchTerm = question.replace(/-/g, ' ').toLowerCase().trim();
     this.logger.log(`User asked: ${searchTerm}`);
 
     const matchedQnA = this.findMatchingQnA(searchTerm);
@@ -106,7 +106,8 @@ export class QnAService {
 
   private extractKeywords(text: string): string[] {
     const stopWords = ['how', 'to', 'what', 'is', 'the', 'a', 'an', 'can', 'i', 'do', 'in', 'with', 'for'];
-    const words = text.split(/\s+/).filter((word) => 
+    const normalized = text.replace(/-/g, ' ');
+    const words = normalized.split(/\s+/).filter((word) => 
       word.length > 2 && !stopWords.includes(word.toLowerCase())
     );
     return words;
