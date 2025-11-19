@@ -197,6 +197,10 @@
         "onboarding",
         "employee relations",
         "hiring",
+        "leaves",
+        "time off",
+        "absence",
+        "medical",
         "people management",
         "processes"
       ],
@@ -229,6 +233,42 @@
       "teamSize": 0,
       "email": "e.aliko@teamsystem.com",
       "specialization": "Vapor Library"
+    },
+    {
+      "id": "it_001",
+      "name": "MOISI TRUNGU",
+      "role": "IT Support Specialist",
+      "department": "IT Operations",
+      "location": "TIRANA_KOMPLEKSI DELIJORGJI",
+      "hierarchyLevel": 0,
+      "hierarchyType": "support",
+      "relationshipToBruno": "IT Support",
+      "skills": [
+        "IT Infrastructure",
+        "System Administration",
+        "Technical Support",
+        "Network Management"
+      ],
+      "expertise": [
+        "it support",
+        "it",
+        "infrastructure",
+        "system administration",
+        "hardware",
+        "software installation",
+        "network",
+        "vpn",
+        "access issues",
+        "laptop setup",
+        "email",
+        "azure",
+        "cloud services",
+        "troubleshooting",
+        "cisco"
+      ],
+      "teamSize": 3,
+      "email": "m.trungu@teamsystem.com",
+      "supportType": "IT & Technical Infrastructure"
     }
   ],
   "skillIndex": {
@@ -256,6 +296,11 @@
     "team leadership": ["247$3666", "247$4924", "247$6963"],
     "project management": ["247$3666", "247$4924", "247$6963"],
     "hr": ["hr_001"],
+    "medical": ["hr_001"],
+    "leave": ["hr_001"],
+    "time off": ["hr_001"],
+    "absence": ["hr_001"],
+    "employee relations": ["hr_001"],
     "human resources": ["hr_001"],
     "benefits": ["hr_001"],
     "onboarding": ["hr_001"],
@@ -264,7 +309,19 @@
     "leadership": ["247$3572", "247$3554", "247$3628"],
     "strategy": ["247$3572", "247$3554"],
     "finance": ["247$3554"],
-    "operations": ["247$3628"]
+    "operations": ["247$3628"],
+    "it support": ["it_001"],
+    "it": ["it_001"],
+    "infrastructure": ["it_001"],
+    "hardware": ["it_001"],
+    "network": ["it_001"],
+    "vpn": ["it_001"],
+    "laptop": ["it_001"],
+    "email issues": ["it_001"],
+    "azure": ["it_001"],
+    "cloud": ["it_001"],
+    "cisco": ["it_001"],
+    "troubleshooting": ["it_001"]
   },
   "brunosNetwork": {
     "reportingChain": {
@@ -334,6 +391,11 @@
           "id": "hr_001",
           "name": "ELEONORA TONELLI",
           "specialization": "HR & People Processes"
+        },
+        {
+          "id": "it_001",
+          "name": "MOISI TRUNGU",
+          "specialization": "IT & Technical Infrastructure"
         }
       ]
     }
@@ -344,6 +406,6 @@
     "department": "Engineering TeamSystem Tirana - Professional & Cross",
     "location": "TIRANA_KOMPLEKSI DELIJORGJI",
     "lastUpdated": "2025-11-19",
-    "totalContacts": 10
+    "totalContacts": 11
   }
 }
