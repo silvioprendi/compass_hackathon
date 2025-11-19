@@ -1,0 +1,2511 @@
+[
+  {
+    "name": "ts-metering-privacy-broker",
+    "title": "ts-metering-privacy-broker",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "034733af-44c2-488e-8997-ba72c6e6bf69",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-metering-privacy-broker"
+  },
+  {
+    "name": "ai-platform-evaluator",
+    "title": "AI Platform Evaluator",
+    "description": "Service for evaluating agents accuracy and performance",
+    "tags": [
+      "ai",
+      "ml",
+      "python"
+    ],
+    "uid": "03727482-d1c4-4fa9-a178-80ce3fe5930e",
+    "link": "https://development.teamsystem.com/docs/default/component/ai-platform-evaluator"
+  },
+  {
+    "name": "girinoreg-component",
+    "title": "TSIH Girino Register",
+    "description": "TSIH Girino Register Component",
+    "tags": [],
+    "uid": "0544ec41-156b-4772-8586-465b6da2cf7e",
+    "link": "https://development.teamsystem.com/docs/default/component/girinoreg-component"
+  },
+  {
+    "name": "business-intelligence-template",
+    "title": "Business Intelligence Template Extension",
+    "description": "Progetto contenente Template Extension del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "069e9ba0-5cef-49ba-80c6-81e334f733e9",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-template"
+  },
+  {
+    "name": "balance-sheet",
+    "title": "Balance Sheet (Bilancio SaaS)",
+    "description": "Balance Sheet (Bilancio SaaS)",
+    "tags": [],
+    "uid": "06b1a129-b642-45ef-89bc-b389c51a68a3",
+    "link": "https://development.teamsystem.com/docs/default/component/balance-sheet"
+  },
+  {
+    "name": "ts-studio-ts-azienda-accounting",
+    "title": "TS STUDIO/TS AZIENDA Accounting (Contabilità)",
+    "description": "TS STUDIO/TS AZIENDA Accounting (Contabilità)",
+    "tags": [],
+    "uid": "078ae601-151d-44fa-86f3-72c700ce5e37",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-studio-ts-azienda-accounting"
+  },
+  {
+    "name": "identity-profiles-updater",
+    "title": "Identity Profiles Updater",
+    "description": "Service persisting profiles changes",
+    "tags": [],
+    "uid": "08d31ad6-c0c3-41b6-88f7-181a7666033b",
+    "link": "https://development.teamsystem.com/docs/default/component/identity-profiles-updater"
+  },
+  {
+    "name": "development-portal",
+    "title": "Development Portal",
+    "description": "Development Portal",
+    "tags": [],
+    "uid": "08efd54e-22e9-49fc-b88b-46f0e3128009",
+    "link": "https://development.teamsystem.com/docs/default/component/development-portal"
+  },
+  {
+    "name": "ts-hr-app-static-hmtl",
+    "title": "TeamSystem HR App Static Hmtl",
+    "description": "Ts Hr app Static Hmtl",
+    "tags": [
+      "html"
+    ],
+    "uid": "092e399d-47db-4fe9-9946-c44db8ef3a7b",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-static-hmtl"
+  },
+  {
+    "name": "learning-typescript",
+    "title": "TypeScript",
+    "description": "TypeScript",
+    "tags": [],
+    "uid": "0bc1701c-37b7-474b-9cd1-86d2011fb45a",
+    "link": "https://development.teamsystem.com/docs/default/component/learning-typescript"
+  },
+  {
+    "name": "core-services-ai",
+    "title": "Core Services - AI",
+    "description": "Core Services - AI",
+    "tags": [],
+    "uid": "0d38e98d-d9cb-4347-8a99-1a4be4866377",
+    "link": "https://development.teamsystem.com/docs/default/component/core-services-ai"
+  },
+  {
+    "name": "backend-immobilisaas",
+    "title": "Backend",
+    "description": "Descrive le api backend di ImmobiliSaaS",
+    "tags": [
+      "backend",
+      "immobilisaas"
+    ],
+    "uid": "0dff5728-457c-4a81-8c5e-d4eabd6f4901",
+    "link": "https://development.teamsystem.com/docs/default/component/backend-immobilisaas"
+  },
+  {
+    "name": "e-archiving",
+    "title": "E-Archiving (Archive)",
+    "description": "E-Archiving (Archive)",
+    "tags": [],
+    "uid": "0e781771-67a5-4e85-80a3-d2d2c43ff55f",
+    "link": "https://development.teamsystem.com/docs/default/component/e-archiving"
+  },
+  {
+    "name": "documents-bff",
+    "title": "",
+    "description": "Document management based on docstore, for the collaboration between accountants and companies",
+    "tags": [],
+    "uid": "11585455-a4bb-4e1c-b8f9-ea075651c25a",
+    "link": "https://development.teamsystem.com/docs/default/component/documents-bff"
+  },
+  {
+    "name": "business-intelligence-maga-fsh",
+    "title": "Business Intelligence Magazzino Fashion",
+    "description": "Progetto contenente  Magazzino Fashion del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "119bec73-7141-440e-9810-5b088de9445e",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-maga-fsh"
+  },
+  {
+    "name": "engagement",
+    "title": "Engagement in SW",
+    "description": "Engagement in SW",
+    "tags": [],
+    "uid": "13499e01-d3cc-4f48-a36c-7d31a88327dd",
+    "link": "https://development.teamsystem.com/docs/default/component/engagement"
+  },
+  {
+    "name": "f24-saas",
+    "title": "F24 SaaS",
+    "description": "F24 SaaS",
+    "tags": [],
+    "uid": "13930a13-d813-4f3b-aead-0021c415b681",
+    "link": "https://development.teamsystem.com/docs/default/component/f24-saas"
+  },
+  {
+    "name": "metering-notification-hub",
+    "title": "metering-notification-hub",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "14136e9b-ca65-4a41-832a-89318f4f2a50",
+    "link": "https://development.teamsystem.com/docs/default/component/metering-notification-hub"
+  },
+  {
+    "name": "ts-wallet",
+    "title": "Wallet Service",
+    "description": "Service that manages virtual credits between companies and users",
+    "tags": [
+      "rest",
+      "typescript",
+      "aws",
+      "wallet"
+    ],
+    "uid": "171e87a6-761a-494f-9ce3-74741978726b",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-wallet"
+  },
+  {
+    "name": "docstore-write",
+    "title": "",
+    "description": "DocStore Write Api",
+    "tags": [],
+    "uid": "192c3a0a-14cd-4ef5-89ba-f1ea90864364",
+    "link": "https://development.teamsystem.com/docs/default/component/docstore-write"
+  },
+  {
+    "name": "price-list",
+    "title": "Price list (Listini)",
+    "description": "Price list (Listini)",
+    "tags": [],
+    "uid": "198410e5-490c-4309-9588-7d06198817e9",
+    "link": "https://development.teamsystem.com/docs/default/component/price-list"
+  },
+  {
+    "name": "ts-metering-privacy-broker-listener",
+    "title": "ts-metering-privacy-broker-listener",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "1a1612ce-7973-4128-8b0d-6445b8c97daa",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-metering-privacy-broker-listener"
+  },
+  {
+    "name": "intermediary-registry-read",
+    "title": "Intermediary Registry Read",
+    "description": "Services handling intermediaries, delegates and security environments",
+    "tags": [],
+    "uid": "1a7a1955-bd27-4aa6-9a3a-23204a0e4471",
+    "link": "https://development.teamsystem.com/docs/default/component/intermediary-registry-read"
+  },
+  {
+    "name": "enrollment",
+    "title": "Nuovo censimento",
+    "description": "Processo di censimento dei Client",
+    "tags": [
+      "enrollment",
+      "censimento",
+      "client"
+    ],
+    "uid": "1a82518e-4fa0-4e4a-aa36-e7965c0e1465",
+    "link": "https://development.teamsystem.com/docs/default/component/enrollment"
+  },
+  {
+    "name": "metering-archiver-listener",
+    "title": "metering-archiver-listener",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "1b5ab9e0-0310-43a9-9e4a-e1656b48a9cd",
+    "link": "https://development.teamsystem.com/docs/default/component/metering-archiver-listener"
+  },
+  {
+    "name": "consumptions-dashboard-backend",
+    "title": "consumptions-dashboard-backend",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "1c29c9d4-b7d7-44a1-b72e-1fc71afbf96e",
+    "link": "https://development.teamsystem.com/docs/default/component/consumptions-dashboard-backend"
+  },
+  {
+    "name": "ai-services",
+    "title": "AI Services",
+    "description": "Gateway to collect all AI Services",
+    "tags": [
+      "ai",
+      "ml",
+      "python"
+    ],
+    "uid": "1e9014fe-d1ab-4630-a5b2-95b0ca3e267e",
+    "link": "https://development.teamsystem.com/docs/default/component/ai-services"
+  },
+  {
+    "name": "m3-consumptions-relay",
+    "title": "Consumptions Relay",
+    "description": "Retrieve events from consumption-event-store and sent to broker message",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "1eb9a48f-7170-46d8-9eb2-8d3564c6d7dc",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-consumptions-relay"
+  },
+  {
+    "name": "business-intelligence-cons",
+    "title": "Business Intelligence Construction",
+    "description": "Progetto contenente Construction del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "1f11e030-a6c3-4d4b-a9ca-21713180028b",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cons"
+  },
+  {
+    "name": "charts-of-accounts",
+    "title": "Chart Of Accounts",
+    "description": "Service for chart-of-accounts domain. Streamline registry lifecycle, organizing and managing financial accounts for seamless accounting processes and accurate reporting.",
+    "tags": [
+      "kotlin",
+      "micronaut"
+    ],
+    "uid": "211dc43a-291a-4865-abfe-962ed7fac6e6",
+    "link": "https://development.teamsystem.com/docs/default/component/charts-of-accounts"
+  },
+  {
+    "name": "ts-reservation",
+    "title": "Reservation",
+    "description": "This service allows customers to handle table reservations.",
+    "tags": [
+      "graphql",
+      "typescript",
+      "aws",
+      "reservation"
+    ],
+    "uid": "22a42a07-7b99-4279-9584-ad5eb4c72dc5",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-reservation"
+  },
+  {
+    "name": "ts-hr-app-android",
+    "title": "TeamSystem HR App Android",
+    "description": "Ts Hr app Android",
+    "tags": [
+      "kotlin",
+      "android",
+      "huawei",
+      "harmonyos",
+      "java"
+    ],
+    "uid": "22f52e6d-a354-4ff7-b08c-97a91b52485e",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-android"
+  },
+  {
+    "name": "metering-archiver-write",
+    "title": "metering-archiver-write",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "23149fd1-b6a6-4950-87ff-e6c178677055",
+    "link": "https://development.teamsystem.com/docs/default/component/metering-archiver-write"
+  },
+  {
+    "name": "business-intelligence-cloud-app-structure",
+    "title": "Business Intelligence Cloud",
+    "description": "Documentazione relativa alla struttura standard di un'app di qlik sense per BI in cloud",
+    "tags": [
+      "qlik-sense",
+      "bi-cloud",
+      "tsbi"
+    ],
+    "uid": "237983d2-f8f2-4e97-9298-6e565a5304c2",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cloud-app-structure"
+  },
+  {
+    "name": "ts-hr-app-redis",
+    "title": "TeamSystem HR App Redis",
+    "description": "Ts Hr app Redis",
+    "tags": [
+      "docker",
+      "redis"
+    ],
+    "uid": "2383544a-0a44-43c0-a500-1c78739401df",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-redis"
+  },
+  {
+    "name": "helk",
+    "title": "Observability (Helk)",
+    "description": "Observability (Helk)",
+    "tags": [],
+    "uid": "23b29bb2-61bc-41d3-a0b2-13a7dfe72690",
+    "link": "https://development.teamsystem.com/docs/default/component/helk"
+  },
+  {
+    "name": "m3-subscriptions-cron",
+    "title": "Subscriptions Cron",
+    "description": "Executes specific flow using Cron scheduler.",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "23d56237-86ac-4b94-b2c5-29ff725daec9",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-subscriptions-cron"
+  },
+  {
+    "name": "business-intelligence-cocl",
+    "title": "Business Intelligence Consegne Clienti",
+    "description": "Progetto contenente Consegne Clienti del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "251e1d26-a3dd-4326-9da4-3adc8da55dc4",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cocl"
+  },
+  {
+    "name": "certified-contacts-read",
+    "title": "certified-contacts-read",
+    "description": "Read-only access to certified contacts",
+    "tags": [
+      "certified-contacts"
+    ],
+    "uid": "254ddc6c-f4d2-4b03-a6d0-f041c790b16e",
+    "link": "https://development.teamsystem.com/docs/default/component/certified-contacts-read"
+  },
+  {
+    "name": "workspace-service-subscription-api",
+    "title": "workspace-service-subscription-api",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "25d08b42-5640-418a-aa5a-a0c502db076b",
+    "link": "https://development.teamsystem.com/docs/default/component/workspace-service-subscription-api"
+  },
+  {
+    "name": "experience-products-catalog",
+    "title": "Products Catalog",
+    "description": "The team experience's products-catalog is a platform-level tool used to create and manage products and commercial suites",
+    "tags": [],
+    "uid": "2930b090-98b0-43d7-a5e3-06ec83eb81cf",
+    "link": "https://development.teamsystem.com/docs/default/component/experience-products-catalog"
+  },
+  {
+    "name": "standard-codes-mongodb-service",
+    "title": "Standard Codes MongoDB Service",
+    "description": "MongoDB microservice to access to all entities available in Standard Codes",
+    "tags": [
+      "java",
+      "spring-boot",
+      "mongodb"
+    ],
+    "uid": "2a0efd37-cb0f-4678-aeed-24996cc8aa0c",
+    "link": "https://development.teamsystem.com/docs/default/component/standard-codes-mongodb-service"
+  },
+  {
+    "name": "identity-updater",
+    "title": "Identity Updater",
+    "description": "Service persisting changes",
+    "tags": [],
+    "uid": "2be1f511-77bd-4ddc-8800-ab5873125521",
+    "link": "https://development.teamsystem.com/docs/default/component/identity-updater"
+  },
+  {
+    "name": "business-intelligence-prod",
+    "title": "Business Intelligence Produzione",
+    "description": "Progetto contenente Produzione del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "2c732293-f09f-40de-add0-51bcfc71f64e",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-prod"
+  },
+  {
+    "name": "standard-codes",
+    "title": "Standard Codes",
+    "description": "Standard Codes is a collection of common tables used in all systems, components & generally in software",
+    "tags": [],
+    "uid": "2c895ffc-9ac8-4ac7-9964-2886851e3012",
+    "link": "https://development.teamsystem.com/docs/default/component/standard-codes"
+  },
+  {
+    "name": "e-sign",
+    "title": "E-Sign (Signature)",
+    "description": "E-Sign (Signature)",
+    "tags": [],
+    "uid": "2cc38298-1d4a-4d99-abe1-918006aeb888",
+    "link": "https://development.teamsystem.com/docs/default/component/e-sign"
+  },
+  {
+    "name": "identity-profiles-write",
+    "title": "Identity Profiles Write",
+    "description": "Service handling profiles of identities",
+    "tags": [],
+    "uid": "2d00f107-5577-44e0-b620-bc8127857540",
+    "link": "https://development.teamsystem.com/docs/default/component/identity-profiles-write"
+  },
+  {
+    "name": "business-intelligence-coan",
+    "title": "Business Intelligence Contabilità Analitica",
+    "description": "Progetto contenente Contabilità Analitica del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "2d0d2386-4565-45b7-bc12-5af7fa058b44",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-coan"
+  },
+  {
+    "name": "certification-authority",
+    "title": "Certification Authority",
+    "description": "Certification Authority",
+    "tags": [],
+    "uid": "2facb0b7-df7c-4941-b531-a7204dfda628",
+    "link": "https://development.teamsystem.com/docs/default/component/certification-authority"
+  },
+  {
+    "name": "business-information",
+    "title": "Business Information",
+    "description": "Business Information",
+    "tags": [],
+    "uid": "2ffa4aa6-b7e5-4c7b-b6db-1fc956923256",
+    "link": "https://development.teamsystem.com/docs/default/component/business-information"
+  },
+  {
+    "name": "smart-analytics",
+    "title": "Smart Analytics",
+    "description": "Smart Analytics is a service that allows users of an application to extract information taken from a single query/display and analyze them, using a Business Intelligence tool. The user has the possibility to obtain information and improve the organization’s Data Culture through simple analysis and dynamic interaction with information.",
+    "tags": [],
+    "uid": "30358ae3-17e3-4121-9fdf-39043918bd26",
+    "link": "https://development.teamsystem.com/docs/default/component/smart-analytics"
+  },
+  {
+    "name": "ade-proxy-service",
+    "title": "Agenzia delle Entrate Services",
+    "description": "AdE Service offer services to check & verify italian Vat Codes & Fiscal Codes",
+    "tags": [],
+    "uid": "304c06e0-d7ae-44a2-a863-f0ccd71aedbd",
+    "link": "https://development.teamsystem.com/docs/default/component/ade-proxy-service"
+  },
+  {
+    "name": "framework-ts-studio",
+    "title": "Framework TS Studio",
+    "description": "Framework TS Studio",
+    "tags": [
+      "tsx",
+      "framework-ts-studio"
+    ],
+    "uid": "3059db3e-434b-47b8-b70e-6239242a566a",
+    "link": "https://development.teamsystem.com/docs/default/component/framework-ts-studio"
+  },
+  {
+    "name": "StrongAuthMsg-dispatcher",
+    "title": "StrongAuth-Messaging-dispatcher",
+    "description": "Commect to external SMS providers to dispatch messages.",
+    "tags": [
+      "strongauthmsg"
+    ],
+    "uid": "309ff5b3-a66a-4b73-ac81-881c458a7ea9",
+    "link": "https://development.teamsystem.com/docs/default/component/StrongAuthMsg-dispatcher"
+  },
+  {
+    "name": "ts-azienda-scm",
+    "title": "TS AZIENDA SCM",
+    "description": "TS AZIENDA SCM",
+    "tags": [],
+    "uid": "30e404e5-3fca-494e-b990-ce7f5a1d31a6",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-azienda-scm"
+  },
+  {
+    "name": "deadlines",
+    "title": "",
+    "description": "It contains all OnePlatform deadlines services.",
+    "tags": [],
+    "uid": "30ff7f90-6a7b-4743-a7c3-019cf1a61b2a",
+    "link": "https://development.teamsystem.com/docs/default/component/deadlines"
+  },
+  {
+    "name": "jsreport",
+    "title": "JS Report",
+    "description": "JS Report",
+    "tags": [],
+    "uid": "3158d839-3903-493b-9bc4-3c349480d2a7",
+    "link": "https://development.teamsystem.com/docs/default/component/jsreport"
+  },
+  {
+    "name": "deadlines-app",
+    "title": "",
+    "description": "It contains the deadlines-app, knowns even as PaymentIncomes app.",
+    "tags": [],
+    "uid": "31db7778-d762-46cd-a523-5ddb563899c3",
+    "link": "https://development.teamsystem.com/docs/default/component/deadlines-app"
+  },
+  {
+    "name": "analytics-admin-console",
+    "title": "Analytics Admin Web Application",
+    "description": "Analytics Admin Web Application - manages companies, users, KPIs catalog & permissions",
+    "tags": [
+      "react",
+      "desktop"
+    ],
+    "uid": "321672bc-daac-42d6-b4eb-6c42d6cd488f",
+    "link": "https://development.teamsystem.com/docs/default/component/analytics-admin-console"
+  },
+  {
+    "name": "api-gateway",
+    "title": "API Gateway",
+    "description": "API Gateway",
+    "tags": [],
+    "uid": "3265a183-5378-46d4-a96d-85a8265da22e",
+    "link": "https://development.teamsystem.com/docs/default/component/api-gateway"
+  },
+  {
+    "name": "sendtime-recommender",
+    "title": "MailUp - sendtime-recommender",
+    "description": "Template project",
+    "tags": [
+      "ai",
+      "ml",
+      "python",
+      "tensorflow"
+    ],
+    "uid": "32ca74ca-7206-489a-8e2f-0044c48e8a38",
+    "link": "https://development.teamsystem.com/docs/default/component/sendtime-recommender"
+  },
+  {
+    "name": "ts-met-unit-emitter",
+    "title": "ts-met-unit-emitter",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "336644af-1dfd-4bd1-b0a7-7821760ff6f6",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-met-unit-emitter"
+  },
+  {
+    "name": "foundation",
+    "title": "Foundation Library",
+    "description": "The foundation library provides common functionality for the CRM system and reusable components for other systems.",
+    "tags": [],
+    "uid": "3484ec25-057e-45d8-9579-ca7d056272b5",
+    "link": "https://development.teamsystem.com/docs/default/component/foundation"
+  },
+  {
+    "name": "experience-powerboard",
+    "title": "Powerboard",
+    "description": "The team experience's powerboard is a platform-level tool used to create and manage dashboards composed of different widgets",
+    "tags": [],
+    "uid": "357d2609-aaad-4c79-a628-01f94589b9d9",
+    "link": "https://development.teamsystem.com/docs/default/component/experience-powerboard"
+  },
+  {
+    "name": "business-intelligence-ciat",
+    "title": "Business Intelligence Ciclo Attivo",
+    "description": "Progetto contenente Ciclo Attivo del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "364216f1-e608-4063-b5a2-b51411ec2229",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-ciat"
+  },
+  {
+    "name": "business-intelligence-cofo-fsh",
+    "title": "Business Intelligence Consegne Fornitori Fashion",
+    "description": "Progetto contenente  Consegne Fornitori Fashion del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "36fc50a4-bb17-4618-98e1-45000cd315a0",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cofo-fsh"
+  },
+  {
+    "name": "tsih-scheduler",
+    "title": "TSIH Scheduler",
+    "description": "TSIH Scheduler",
+    "tags": [],
+    "uid": "3874bc02-769c-4a4a-a4f0-466a6c0379e4",
+    "link": "https://development.teamsystem.com/docs/default/component/tsih-scheduler"
+  },
+  {
+    "name": "ts-metering-bo-interface",
+    "title": "ts-metering-bo-interface",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "387faf13-9112-4fd3-9a43-218d81ea4d3a",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-metering-bo-interface"
+  },
+  {
+    "name": "vat-exemption-code-classificator",
+    "title": "Vat Exemption Code Classificator",
+    "description": "Classifier trained to classify VAT exemption codes",
+    "tags": [
+      "ai",
+      "ml",
+      "python"
+    ],
+    "uid": "396df416-442e-4e8e-a7af-b57460eb1198",
+    "link": "https://development.teamsystem.com/docs/default/component/vat-exemption-code-classificator"
+  },
+  {
+    "name": "company-registry",
+    "title": "Company Registry",
+    "description": "Company Registry",
+    "tags": [],
+    "uid": "3b681957-78af-4f3d-b891-68141b05c0ef",
+    "link": "https://development.teamsystem.com/docs/default/component/company-registry"
+  },
+  {
+    "name": "e-receipt",
+    "title": "Digital Receipt",
+    "description": "This is the MF1 (Modulo fiscale 1 - Fiscal module 1) of E-Receipt solution.",
+    "tags": [
+      "e-receipt",
+      "mf1"
+    ],
+    "uid": "3c5bd0d0-c4de-4079-bfed-c06a691625b4",
+    "link": "https://development.teamsystem.com/docs/default/component/e-receipt"
+  },
+  {
+    "name": "identity-profiles-read",
+    "title": "Identity Profiles Read",
+    "description": "Service handling profiles of identities",
+    "tags": [],
+    "uid": "3d4e7aea-ea65-47a0-b01a-25ca16d0ba88",
+    "link": "https://development.teamsystem.com/docs/default/component/identity-profiles-read"
+  },
+  {
+    "name": "link-shortener",
+    "title": "Link Shortener Service",
+    "description": "This service allows you to shorten links.",
+    "tags": [
+      "rest",
+      "typescript",
+      "aws",
+      "link-shortener"
+    ],
+    "uid": "3e83add2-9dbf-47d1-b231-022173182eb5",
+    "link": "https://development.teamsystem.com/docs/default/component/link-shortener"
+  },
+  {
+    "name": "business-intelligence-cong",
+    "title": "Business Intelligence Controlling",
+    "description": "Progetto contenente Controlling del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "3ea115e2-1925-47b2-b80e-9f5b2a3d23e0",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cong"
+  },
+  {
+    "name": "cerved-service",
+    "title": "Cerved Service",
+    "description": "Cerved service offer company base & additinal economic information of Italian companies using centralized endpoint offered via API-Gateway technical service",
+    "tags": [],
+    "uid": "3fc59577-e8ca-4783-82fd-eb57d72bdadc",
+    "link": "https://development.teamsystem.com/docs/default/component/cerved-service"
+  },
+  {
+    "name": "ts-bil-frontend",
+    "title": "TeamSystem Bilancio Saas FrontEnd",
+    "description": "Ts Bilancio Saas FrontEnd",
+    "tags": [
+      "javascript",
+      "typescript",
+      "angular"
+    ],
+    "uid": "406724bd-4abf-4123-86cf-d2d93d9edec2",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-bil-frontend"
+  },
+  {
+    "name": "analytics",
+    "title": "Analytics",
+    "description": "Analytics",
+    "tags": [],
+    "uid": "40ea82c8-e4a1-4cbb-8ee4-b26638761286",
+    "link": "https://development.teamsystem.com/docs/default/component/analytics"
+  },
+  {
+    "name": "certified-contact",
+    "title": "Certified Contact",
+    "description": "Centralized certified contact registry",
+    "tags": [],
+    "uid": "4165566b-1bc4-4fa0-8fc0-fdaf105f8a2b",
+    "link": "https://development.teamsystem.com/docs/default/component/certified-contact"
+  },
+  {
+    "name": "business-intelligence-hub",
+    "title": "Business Intelligence Hub",
+    "description": "Progetto contenente l'hub del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "42715f7a-d43b-425c-824a-2eccfcb635e0",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-hub"
+  },
+  {
+    "name": "business-intelligence-template-builder",
+    "title": "Business Intelligence Template Builder",
+    "description": "Progetto contenente il template builder del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "43121638-744b-4c7d-b203-e696b8cfb4b6",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-template-builder"
+  },
+  {
+    "name": "tsih-service-manager-component",
+    "title": "TSIH Service Manager",
+    "description": "TSIH Service Manager Component (Platform Services provider)",
+    "tags": [],
+    "uid": "43cce368-8dac-4f09-b913-9bab8332005f",
+    "link": "https://development.teamsystem.com/docs/default/component/tsih-service-manager-component"
+  },
+  {
+    "name": "ade-proxy",
+    "title": "AdE Forward Proxy",
+    "description": "AdE forward proxy",
+    "tags": [
+      "terraform",
+      "nginx",
+      "load-balancer"
+    ],
+    "uid": "44265a1d-b2dc-4028-a72a-564275eb2e2c",
+    "link": "https://development.teamsystem.com/docs/default/component/ade-proxy"
+  },
+  {
+    "name": "m3-subscriptions-consumptions-aggregate",
+    "title": "Subscriptions Consumptions Aggregate",
+    "description": "Subscriptions Consumptions Aggregate for M3 Subscription Manager",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "44d5051b-a18e-4ced-85cd-9753490bb5cc",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-subscriptions-consumptions-aggregate"
+  },
+  {
+    "name": "policy-catalog",
+    "title": "Policy Catalog",
+    "description": "Catalog of policies",
+    "tags": [
+      "policy-catalog",
+      "policy-manager"
+    ],
+    "uid": "44ea35f8-4ece-4345-9b16-501069d11c75",
+    "link": "https://development.teamsystem.com/docs/default/component/policy-catalog"
+  },
+  {
+    "name": "metering",
+    "title": "Metering",
+    "description": "Metering",
+    "tags": [],
+    "uid": "451567e0-0fbb-4494-9d1f-a96c1d0537e5",
+    "link": "https://development.teamsystem.com/docs/default/component/metering"
+  },
+  {
+    "name": "agyo-subscription-api",
+    "title": "agyo-subscription-api",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "45205206-e1a1-40b0-8b19-d74e0eab83ef",
+    "link": "https://development.teamsystem.com/docs/default/component/agyo-subscription-api"
+  },
+  {
+    "name": "girino",
+    "title": "girino",
+    "description": "Onprem agent",
+    "tags": [],
+    "uid": "4530e05d-a8ff-4548-b146-1ecc8e442001",
+    "link": "https://development.teamsystem.com/docs/default/component/girino"
+  },
+  {
+    "name": "metering-services-activator",
+    "title": "metering-services-activator",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "4aa0c98c-c07e-4c60-a520-c8f13ad36468",
+    "link": "https://development.teamsystem.com/docs/default/component/metering-services-activator"
+  },
+  {
+    "name": "ts-metering-usage-read",
+    "title": "ts-metering-usage-read",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "4b4b2b3a-1f20-4b65-a2be-ffd94da18cca",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-metering-usage-read"
+  },
+  {
+    "name": "usage-package-listner-fn",
+    "title": "usage-package-listner-fn",
+    "description": "",
+    "tags": [
+      "iso",
+      "function"
+    ],
+    "uid": "4b9698c8-6119-4e68-a8dd-63cb6942ef30",
+    "link": "https://development.teamsystem.com/docs/default/component/usage-package-listner-fn"
+  },
+  {
+    "name": "metering-m3-invoker",
+    "title": "Metering M3 Adapter",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "4be92d2b-b9c1-4ea2-9803-b210c7aa0453",
+    "link": "https://development.teamsystem.com/docs/default/component/metering-m3-invoker"
+  },
+  {
+    "name": "m3-price-list-read",
+    "title": "Price List Read",
+    "description": "Price List Read API for M3 Subscription Manager",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "4dc1fb1c-6363-48e9-aeb0-2db579e3e6c3",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-price-list-read"
+  },
+  {
+    "name": "m3-bucket-read",
+    "title": "Bucket Read",
+    "description": "Bucket Read API for M3 Smartmeter",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "507c85ba-d658-4724-9cba-d64d9c784c2f",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-bucket-read"
+  },
+  {
+    "name": "StrongAuthMsg-emergency-manager",
+    "title": "StrongAuth-Messaging-emergency-manager",
+    "description": "Check the sanity of the providers and manages fallback rerouting and recovering.",
+    "tags": [
+      "strongauthmsg"
+    ],
+    "uid": "515052fa-c024-451f-b244-2aaeaebfdf4d",
+    "link": "https://development.teamsystem.com/docs/default/component/StrongAuthMsg-emergency-manager"
+  },
+  {
+    "name": "policy-catalog-updater",
+    "title": "Policy Catalog Updater",
+    "description": "Component responsible for updating policy catalog",
+    "tags": [
+      "policy-catalog",
+      "policy-manager"
+    ],
+    "uid": "5169b884-4685-41dd-8663-e535522c9673",
+    "link": "https://development.teamsystem.com/docs/default/component/policy-catalog-updater"
+  },
+  {
+    "name": "girino-register-db",
+    "title": "",
+    "description": "Girino Registrations database",
+    "tags": [],
+    "uid": "5175c42d-2b3f-4ba9-a435-76f0267ecd8d",
+    "link": "https://development.teamsystem.com/docs/default/component/girino-register-db"
+  },
+  {
+    "name": "ts-metering-lynfa-import-pn",
+    "title": "ts-metering-lynfa-import-pn",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "532341a9-1df2-4af7-b827-1dbe9ea0ba31",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-metering-lynfa-import-pn"
+  },
+  {
+    "name": "ts-hr-app-utils",
+    "title": "TeamSystem HR App Utils",
+    "description": "Ts Hr app backend utils package",
+    "tags": [
+      "typescript",
+      "nodejs",
+      "mongodb",
+      "yarn",
+      "fastify",
+      "nexus"
+    ],
+    "uid": "53966203-fec6-474c-b896-a1620fffdc61",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-utils"
+  },
+  {
+    "name": "ai-platform-core",
+    "title": "AI Platform Core",
+    "description": "Gateway to collect all AI Platform services",
+    "tags": [
+      "ai",
+      "ml",
+      "python"
+    ],
+    "uid": "5466dc9c-772c-4e6b-ad74-af6c96a70690",
+    "link": "https://development.teamsystem.com/docs/default/component/ai-platform-core"
+  },
+  {
+    "name": "tsih-sender",
+    "title": "TSIH Sender",
+    "description": "TSIH Sender",
+    "tags": [],
+    "uid": "55b2c914-bd2d-4755-aa41-8e2f2850402f",
+    "link": "https://development.teamsystem.com/docs/default/component/tsih-sender"
+  },
+  {
+    "name": "cashflow-app",
+    "title": "Cashflow App",
+    "description": "It contains the Cashflow App.",
+    "tags": [
+      "fintech",
+      "cashflow"
+    ],
+    "uid": "561a9ec3-a558-4f5d-b222-7937e66767a1",
+    "link": "https://development.teamsystem.com/docs/default/component/cashflow-app"
+  },
+  {
+    "name": "ncs",
+    "title": "Notification & Communication",
+    "description": "Notification & Communication",
+    "tags": [],
+    "uid": "56b8e440-96cf-4130-8c7b-845c5a376890",
+    "link": "https://development.teamsystem.com/docs/default/component/ncs"
+  },
+  {
+    "name": "account-recommender",
+    "title": "Account Recommender",
+    "description": "Deep Neural Network trained to recommend top-k accounts for each invoice line",
+    "tags": [
+      "ai",
+      "ml",
+      "python",
+      "tensorflow"
+    ],
+    "uid": "573763cc-9064-4444-9d0c-7e7de19cf7cf",
+    "link": "https://development.teamsystem.com/docs/default/component/account-recommender"
+  },
+  {
+    "name": "tse-webapi-doc",
+    "title": "Web Api Service Framework AlyCE",
+    "description": "This is Web Api Service",
+    "tags": [
+      "swagger",
+      "api",
+      "webapi",
+      "service"
+    ],
+    "uid": "57b4edaf-b2da-44da-a8a0-4dc589e74c38",
+    "link": "https://development.teamsystem.com/docs/default/component/tse-webapi-doc"
+  },
+  {
+    "name": "fornitura-details-parser",
+    "title": "",
+    "description": "Converts a fornitura document to a JSON object",
+    "tags": [],
+    "uid": "5a6334da-c1a0-4bbd-b6df-f9aa3f5cd6b9",
+    "link": "https://development.teamsystem.com/docs/default/component/fornitura-details-parser"
+  },
+  {
+    "name": "crm",
+    "title": "CRM",
+    "description": "CRM",
+    "tags": [],
+    "uid": "5b7f9972-5365-47fd-8d73-fc38553c3227",
+    "link": "https://development.teamsystem.com/docs/default/component/crm"
+  },
+  {
+    "name": "oneplatform-authorizer",
+    "title": "Oneplatform Authorizer",
+    "description": "Authorization service for Oneplatform",
+    "tags": [],
+    "uid": "5b84e69a-f460-4c4e-9c46-971810a9033e",
+    "link": "https://development.teamsystem.com/docs/default/component/oneplatform-authorizer"
+  },
+  {
+    "name": "girino-subscription-db",
+    "title": "",
+    "description": "Girino Subscription database",
+    "tags": [],
+    "uid": "5c6371e1-8f22-4a64-93c6-a123897b0884",
+    "link": "https://development.teamsystem.com/docs/default/component/girino-subscription-db"
+  },
+  {
+    "name": "one-click-analysis-saas-backend",
+    "title": "One Click Analysis SaaS Backend",
+    "description": "Project containing One Click Analysis SaaS Backend.",
+    "tags": [
+      "one-click-analysis",
+      "nodejs",
+      "express"
+    ],
+    "uid": "5cf13d4f-897d-4c3b-a7ef-0831047ef36c",
+    "link": "https://development.teamsystem.com/docs/default/component/one-click-analysis-saas-backend"
+  },
+  {
+    "name": "cic-mobile-integration",
+    "title": "Cassa in Cloud - Mobile Integration",
+    "description": "A collection of multiplatform libraries and SDKs developed to seamlessly integrate functionality into Cassa in Cloud products.",
+    "tags": [],
+    "uid": "5e8e53b4-8187-490f-9e35-60dc582f57aa",
+    "link": "https://development.teamsystem.com/docs/default/component/cic-mobile-integration"
+  },
+  {
+    "name": "ai-config",
+    "title": "AI Config",
+    "description": "API to verify status of AI subscription",
+    "tags": [
+      "ai",
+      "ml",
+      "python"
+    ],
+    "uid": "5eb4365a-683c-4e20-a414-4856ae885c50",
+    "link": "https://development.teamsystem.com/docs/default/component/ai-config"
+  },
+  {
+    "name": "security",
+    "title": "Security",
+    "description": "Security",
+    "tags": [],
+    "uid": "601897b4-a672-46f1-a5f3-fc8af31ff10c",
+    "link": "https://development.teamsystem.com/docs/default/component/security"
+  },
+  {
+    "name": "ts-id",
+    "title": "TeamSystem-ID",
+    "description": "TeamSystem-ID",
+    "tags": [
+      "iso"
+    ],
+    "uid": "603f5892-e9fc-46d3-8ac0-b19a2ba2369b",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-id"
+  },
+  {
+    "name": "business-intelligence-cipa",
+    "title": "Business Intelligence Ciclo Passivo",
+    "description": "Progetto contenente Ciclo Passivo del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "605a30a4-039f-4244-99e1-5cb587a5bb66",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cipa"
+  },
+  {
+    "name": "ts-studio-ts-azienda-studio-manager",
+    "title": "TS STUDIO/TS AZIENDA Studio Manager",
+    "description": "TS STUDIO/TS AZIENDA Studio Manager",
+    "tags": [],
+    "uid": "61afccda-af63-4a66-9979-7b66189287a4",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-studio-ts-azienda-studio-manager"
+  },
+  {
+    "name": "ts-hr-app-infra",
+    "title": "TeamSystem HR App Infra",
+    "description": "TS HR App Infra",
+    "tags": [
+      "terraform",
+      "aks",
+      "azure"
+    ],
+    "uid": "63393aed-70d2-41c8-af29-99928af2d098",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-infra"
+  },
+  {
+    "name": "business-intelligence-saas-frontend",
+    "title": "Business Intelligence SaaS Frontend",
+    "description": "Project containing Business Intelligence SaaS Frontend.",
+    "tags": [
+      "business-intelligence",
+      "react"
+    ],
+    "uid": "63dd71e9-7892-43c4-ba4f-fa2083a33aab",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-saas-frontend"
+  },
+  {
+    "name": "public-cloud-governance",
+    "title": "Public Cloud Governance",
+    "description": "Public Cloud Governance",
+    "tags": [],
+    "uid": "66696556-78f7-4b3f-b9d0-dffe252f0e4d",
+    "link": "https://development.teamsystem.com/docs/default/component/public-cloud-governance"
+  },
+  {
+    "name": "rnd-conference",
+    "title": "R&D Conference",
+    "description": "R&D Conference",
+    "tags": [],
+    "uid": "66d54be8-3fdf-4d47-9df8-8a2a2aa6682e",
+    "link": "https://development.teamsystem.com/docs/default/component/rnd-conference"
+  },
+  {
+    "name": "ts-studio-ts-azienda-f24",
+    "title": "TS STUDIO/TS AZIENDA F24",
+    "description": "TS STUDIO/TS AZIENDA F24",
+    "tags": [],
+    "uid": "67fc5da2-6e35-43b4-bf08-04f524d9a2a3",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-studio-ts-azienda-f24"
+  },
+  {
+    "name": "m3-consumptions-producer",
+    "title": "Consumptions Producer",
+    "description": "Producer service for all events related to consumptions in M3 Smartmeter.",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "69774d45-5b65-4e66-a690-af677bfa94f6",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-consumptions-producer"
+  },
+  {
+    "name": "ts-hr-app-client-backoffice",
+    "title": "TeamSystem HR App Client Backoffice",
+    "description": "Ts Hr app client backoffice",
+    "tags": [
+      "javascript",
+      "react"
+    ],
+    "uid": "69b89a9c-662e-4dcf-abc7-1cba32b37b2d",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-client-backoffice"
+  },
+  {
+    "name": "core-services-experience-onefront",
+    "title": "Core Services - Experience - OneFront",
+    "description": "Core Services - Experience - OneFront",
+    "tags": [],
+    "uid": "6c071715-be83-4ad4-b0f8-a8d11c836245",
+    "link": "https://development.teamsystem.com/docs/default/component/core-services-experience-onefront"
+  },
+  {
+    "name": "business-intelligence-cocl-fsh",
+    "title": "Business Intelligence Consegne Clienti Fashion",
+    "description": "Progetto contenente Consegne Clienti Fashion del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "6c46f246-93cb-40b7-9520-3dbcaa86d053",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cocl-fsh"
+  },
+  {
+    "name": "tsih-router",
+    "title": "TSIH Router",
+    "description": "TSIH Router",
+    "tags": [],
+    "uid": "6ce4e920-eda3-4426-80fe-105424a3f1b9",
+    "link": "https://development.teamsystem.com/docs/default/component/tsih-router"
+  },
+  {
+    "name": "metering-consumption-write",
+    "title": "metering-consumption-write",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "6db8bc24-1f8d-4773-9d42-e0ef99bf598c",
+    "link": "https://development.teamsystem.com/docs/default/component/metering-consumption-write"
+  },
+  {
+    "name": "business-intelligence-ffven",
+    "title": "Business Intelligence Flussi Forniture/Vendite",
+    "description": "Progetto contenente Flussi Forniture/Vendite del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "6ddec3e8-009c-4b7f-b965-ee4ca63d719b",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-ffven"
+  },
+  {
+    "name": "business-intelligence-builder",
+    "title": "Business Intelligence Builder",
+    "description": "Progetto contenente il builder del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "6f612584-e9d9-41b0-83b4-14c9456d5785",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-builder"
+  },
+  {
+    "name": "ts-realtime-usage-collector",
+    "title": "ts-realtime-usage-collector",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "6f6fa38c-f6e2-4a0a-9064-cb1abce6f148",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-realtime-usage-collector"
+  },
+  {
+    "name": "ts-metering-read",
+    "title": "ts-metering-read",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "703f3dff-b3da-4cde-9b56-e0fd63f87e95",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-metering-read"
+  },
+  {
+    "name": "ts-bil-stress-test",
+    "title": "TeamSystem Bilancio Saas Stress Test",
+    "description": "Ts Bilancio Saas Stress Test",
+    "tags": [
+      "k6"
+    ],
+    "uid": "707b47d3-8e19-468b-95ad-6ece64170873",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-bil-stress-test"
+  },
+  {
+    "name": "framework-ts-studio",
+    "title": "Framework TS Studio",
+    "description": "all repos and services for Framework TS Studio",
+    "tags": [],
+    "uid": "70847882-5fc2-4478-a22c-aeff8bf8d1ba",
+    "link": "https://development.teamsystem.com/docs/default/component/framework-ts-studio"
+  },
+  {
+    "name": "intermediary-registry-updater",
+    "title": "Intermediary Registry Updater",
+    "description": "Services handling intermediaries, delegates and security environments",
+    "tags": [],
+    "uid": "73e0c82d-8ac9-4390-91b1-9cc6022dc879",
+    "link": "https://development.teamsystem.com/docs/default/component/intermediary-registry-updater"
+  },
+  {
+    "name": "business-intelligence-cipa-fsh",
+    "title": "Business Intelligence Ciclo Passivo Fashion",
+    "description": "Progetto contenente  Ciclo Passivo Fashion del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "75631af0-6451-4803-bfb1-762639e89e2b",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cipa-fsh"
+  },
+  {
+    "name": "generative-ai-evaluate",
+    "title": "Generative AI Evaluate",
+    "description": "Original repo for the Generative AI Evaluate service",
+    "tags": [
+      "ai",
+      "ml",
+      "python"
+    ],
+    "uid": "75bc75f9-d0dd-452f-ba0e-ec87d28cf821",
+    "link": "https://development.teamsystem.com/docs/default/component/generative-ai-evaluate"
+  },
+  {
+    "name": "StrongAuthMsg-results-webhook",
+    "title": "StrongAuth-Messaging-results-webhook",
+    "description": "Exposes webhook to SMS providers in order to receive and store SMS delivery informations.",
+    "tags": [
+      "strongauthmsg"
+    ],
+    "uid": "7795cbb5-b6fa-4c18-ad56-3aa88d9d3355",
+    "link": "https://development.teamsystem.com/docs/default/component/StrongAuthMsg-results-webhook"
+  },
+  {
+    "name": "business-intelligence-dataconnections",
+    "title": "Business Intelligence Data Connections",
+    "description": "Progetto contenente la connessione alla fonte dati del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "78fbe86c-cfe9-4f0f-aaf8-df8eae6477ef",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-dataconnections"
+  },
+  {
+    "name": "e-invoicing",
+    "title": "E-invoicing",
+    "description": "E-invoicing",
+    "tags": [],
+    "uid": "79ec0be2-759d-452c-b89b-7db023501934",
+    "link": "https://development.teamsystem.com/docs/default/component/e-invoicing"
+  },
+  {
+    "name": "ts-studio-ts-azienda-console-telematici",
+    "title": "TS STUDIO/TS AZIENDA Console Telematici",
+    "description": "TS STUDIO/TS AZIENDA Console Telematici",
+    "tags": [],
+    "uid": "7a38ac45-ccda-4436-a2c0-e42fb7a48c27",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-studio-ts-azienda-console-telematici"
+  },
+  {
+    "name": "policy-manager",
+    "title": "IAM (Policy Manager)",
+    "description": "IAM (Policy Manager)",
+    "tags": [],
+    "uid": "7a64b8e8-c58e-4b8f-a88d-8baff1497f48",
+    "link": "https://development.teamsystem.com/docs/default/component/policy-manager"
+  },
+  {
+    "name": "ts-hr-app-backoffice",
+    "title": "TeamSystem HR App Backoffice",
+    "description": "Ts Hr app backend for Backoffice",
+    "tags": [
+      "typescript",
+      "nodejs",
+      "mongodb",
+      "yarn",
+      "express"
+    ],
+    "uid": "7d68fbde-a1d9-41cd-9850-290b638bdf15",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-backoffice"
+  },
+  {
+    "name": "tax-compliance",
+    "title": "",
+    "description": "Aggregates all the events related to fulfilments by linking the taxpayer identified in each event to a fulfilment entity. Events can be generated by any interested service through an integration with Hermes.",
+    "tags": [
+      "nodejs",
+      "typescript"
+    ],
+    "uid": "7d731ccd-722d-4a03-aced-9919c067c503",
+    "link": "https://development.teamsystem.com/docs/default/component/tax-compliance"
+  },
+  {
+    "name": "ts-experience",
+    "title": "TeamSystem Experience",
+    "description": "TeamSystem Experience",
+    "tags": [
+      "tsx",
+      "tsexperience"
+    ],
+    "uid": "7dee11b8-cdfd-4bcf-ba08-14a06146f014",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-experience"
+  },
+  {
+    "name": "business-intelligence",
+    "title": "Business Intelligence",
+    "description": "Business Intelligence",
+    "tags": [],
+    "uid": "7e34ec94-6f24-4b7b-9b71-0d0faca9dee0",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence"
+  },
+  {
+    "name": "ts-services-subscription-webhook-invoker",
+    "title": "ts-services-subscription-webhook-invoker",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "8199cdee-be84-41fc-b57a-93b0f90a2834",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-services-subscription-webhook-invoker"
+  },
+  {
+    "name": "m3",
+    "title": "M3",
+    "description": "Metering and Monitoring Management",
+    "tags": [],
+    "uid": "8270ded3-81ec-46cc-a927-6ad659594d46",
+    "link": "https://development.teamsystem.com/docs/default/component/m3"
+  },
+  {
+    "name": "agyo-wrapper",
+    "title": "Agyo Wrapper",
+    "description": "This module is used to onboard companies to be enabled on Teamsystem e-invoicing enviroment",
+    "tags": [],
+    "uid": "855eff4a-e107-470e-805d-e3c193abfacf",
+    "link": "https://development.teamsystem.com/docs/default/component/agyo-wrapper"
+  },
+  {
+    "name": "m3-price-list-worker",
+    "title": "Price List Worker",
+    "description": "Price List Worker for M3 Subscription Manager",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "86a5bcb1-6813-45fd-b73c-ac0ef26fbc47",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-price-list-worker"
+  },
+  {
+    "name": "cobol-setup-ts-studio",
+    "title": "Cobol Dev Setup",
+    "description": "This project guides and automates the setup of a COBOL development environment for TS Studio",
+    "tags": [
+      "setup",
+      "ts-studio",
+      "cobol"
+    ],
+    "uid": "86b67338-ed4a-4e4a-938a-c48f6edf780f",
+    "link": "https://development.teamsystem.com/docs/default/component/cobol-setup-ts-studio"
+  },
+  {
+    "name": "ts-metering-consumptions-archiver",
+    "title": "ts-metering-consumptions-archiver",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "875983d2-2466-462b-9ad5-b05aee3ca552",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-metering-consumptions-archiver"
+  },
+  {
+    "name": "ai-load-testing",
+    "title": "AI Load Testing",
+    "description": "K6 Test for ai endpoint",
+    "tags": [
+      "ai",
+      "k6",
+      "test",
+      "js",
+      "go"
+    ],
+    "uid": "87f03a36-97b7-42cd-aeff-e0c819cd2a1f",
+    "link": "https://development.teamsystem.com/docs/default/component/ai-load-testing"
+  },
+  {
+    "name": "business-intelligence-qvf-versioning",
+    "title": "Business Intelligence QVF versioning",
+    "description": "Applicazione web per gestire il versionamento dei qvf qlik",
+    "tags": [
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "885b8cb5-4259-420d-8718-99f9abd6063b",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-qvf-versioning"
+  },
+  {
+    "name": "tsih-content-manager-component",
+    "title": "TSIH Content Manager",
+    "description": "Content Manager Component (S3 files Management)",
+    "tags": [],
+    "uid": "88620812-1df3-4e2a-b872-436e496ae193",
+    "link": "https://development.teamsystem.com/docs/default/component/tsih-content-manager-component"
+  },
+  {
+    "name": "tsih-listener-sub",
+    "title": "TSIH Listener",
+    "description": "TSIH Listener",
+    "tags": [],
+    "uid": "889e991a-ef68-49a4-85c3-0f813eba5810",
+    "link": "https://development.teamsystem.com/docs/default/component/tsih-listener-sub"
+  },
+  {
+    "name": "experience-modules-catalog",
+    "title": "Modules Catalog",
+    "description": "The team experience's modules-catalog is a platform-level tool used to manages business capabilities modules",
+    "tags": [],
+    "uid": "8ab6994f-3551-475b-ab2b-b9148e58515d",
+    "link": "https://development.teamsystem.com/docs/default/component/experience-modules-catalog"
+  },
+  {
+    "name": "utilities-service",
+    "title": "Utilities Service",
+    "description": "Utilities Services, contain endpoints to access to common functions used in all systems, components & generally in software",
+    "tags": [
+      "java",
+      "spring-boot"
+    ],
+    "uid": "8d6599fa-bc06-4f88-b249-eafbe7d96d5e",
+    "link": "https://development.teamsystem.com/docs/default/component/utilities-service"
+  },
+  {
+    "name": "data-product-lifecycle",
+    "title": "",
+    "description": "",
+    "tags": [],
+    "uid": "8dd92460-6263-4d8a-b6ce-53a1633c0ca8",
+    "link": "https://development.teamsystem.com/docs/default/component/data-product-lifecycle"
+  },
+  {
+    "name": "gaas-db",
+    "title": "TSIH GaaS database",
+    "description": "TSIH GaaS database",
+    "tags": [],
+    "uid": "8e182145-5885-48a4-9c2b-6ca6a5116877",
+    "link": "https://development.teamsystem.com/docs/default/component/gaas-db"
+  },
+  {
+    "name": "ts-hr-app-read",
+    "title": "TeamSystem HR App Read",
+    "description": "Ts Hr app backend for apps mobile",
+    "tags": [
+      "typescript",
+      "nodejs",
+      "mongodb",
+      "yarn",
+      "fastify"
+    ],
+    "uid": "918e22de-aef1-41e9-b778-64493fdb2d58",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-read"
+  },
+  {
+    "name": "business-intelligence-maga",
+    "title": "Business Intelligence Magazzino",
+    "description": "Progetto contenente Magazzino del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "924a48af-eeeb-486c-b0fb-6e02f6a7f6d4",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-maga"
+  },
+  {
+    "name": "hermes",
+    "title": "Data Streaming (Hermes)",
+    "description": "Data Streaming (Hermes)",
+    "tags": [],
+    "uid": "92791998-2354-4bbe-8618-6f1f906ca702",
+    "link": "https://development.teamsystem.com/docs/default/component/hermes"
+  },
+  {
+    "name": "metering-downgrade-activator-fn",
+    "title": "metering-downgrade-activator-fn",
+    "description": "",
+    "tags": [
+      "iso",
+      "function"
+    ],
+    "uid": "9300c779-5b05-4427-850d-45e10d89f089",
+    "link": "https://development.teamsystem.com/docs/default/component/metering-downgrade-activator-fn"
+  },
+  {
+    "name": "tsih-core",
+    "title": "TSIH Core",
+    "description": "TSIH Core",
+    "tags": [],
+    "uid": "93907b8b-fac1-4ccc-bef9-2e690700bc5a",
+    "link": "https://development.teamsystem.com/docs/default/component/tsih-core"
+  },
+  {
+    "name": "identity-read",
+    "title": "Identity Read",
+    "description": "Service handling identities and invitations",
+    "tags": [],
+    "uid": "93c2fc2e-f072-48ef-915b-77593b43f2e5",
+    "link": "https://development.teamsystem.com/docs/default/component/identity-read"
+  },
+  {
+    "name": "ts-hr-app-support-backoffice",
+    "title": "TeamSystem HR App Support Backoffice",
+    "description": "Ts Hr app support backoffice",
+    "tags": [
+      "javascript",
+      "react"
+    ],
+    "uid": "94c9f680-6432-4306-8e95-7692eefb4d96",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-support-backoffice"
+  },
+  {
+    "name": "tsih-retrysvc",
+    "title": "TSIH Retrysvc",
+    "description": "TSIH Retrysvc",
+    "tags": [],
+    "uid": "96369963-1517-4554-b773-4e3b5335255a",
+    "link": "https://development.teamsystem.com/docs/default/component/tsih-retrysvc"
+  },
+  {
+    "name": "business-intelligence-cofo",
+    "title": "Business Intelligence Consegne Fornitori",
+    "description": "Progetto contenente Consegne Fornitori del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "9664724e-30c4-4917-ab02-c7ad1cd7f715",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cofo"
+  },
+  {
+    "name": "business-intelligence-cont",
+    "title": "Business Intelligence Contabilità",
+    "description": "Progetto contenente Contabilità del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "97446b3d-0c0f-4de1-8529-27135a7958c2",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cont"
+  },
+  {
+    "name": "business-intelligence-spchr",
+    "title": "Business Intelligence SPCHR",
+    "description": "Progetto contenente l'installazione e le configurazioni lato Business Intelligence SPCHR",
+    "tags": [
+      "powershell"
+    ],
+    "uid": "987043cc-8701-4ec7-b524-3a0d1b18fa6d",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-spchr"
+  },
+  {
+    "name": "m3-bucket-worker",
+    "title": "Bucket worker",
+    "description": "worker service for all events related to bucket management in M3 Smartmeter",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "9c2b8287-81df-4964-93e9-e05a6799f9cf",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-bucket-worker"
+  },
+  {
+    "name": "e-identity",
+    "title": "E-Identity (SPID)",
+    "description": "E-Identity (SPID)",
+    "tags": [],
+    "uid": "a03075ad-79ab-433e-a02f-84e8b9d46470",
+    "link": "https://development.teamsystem.com/docs/default/component/e-identity"
+  },
+  {
+    "name": "certified-contacts-updater",
+    "title": "Certified Contacts Updater",
+    "description": "Component responsible for updating certified contacts",
+    "tags": [
+      "certified-contacts"
+    ],
+    "uid": "a1ab7a6f-96c0-478a-8503-5d436ea7b285",
+    "link": "https://development.teamsystem.com/docs/default/component/certified-contacts-updater"
+  },
+  {
+    "name": "experience-launchpad",
+    "title": "Launchpad",
+    "description": "The team experience's launchpad is a platform-level tool used to create and manage menus composed of different modules",
+    "tags": [],
+    "uid": "a311ff23-7147-4f72-b043-3d839a790e0c",
+    "link": "https://development.teamsystem.com/docs/default/component/experience-launchpad"
+  },
+  {
+    "name": "one-click-analysis-saas-frontend",
+    "title": "One Click Analysis SaaS Frontend",
+    "description": "Project containing One Click Analysis SaaS Frontend.",
+    "tags": [
+      "one-click-analysis",
+      "react"
+    ],
+    "uid": "a4fa2ad5-83de-4749-a32f-5f0acef57f32",
+    "link": "https://development.teamsystem.com/docs/default/component/one-click-analysis-saas-frontend"
+  },
+  {
+    "name": "experience-services",
+    "title": "Experience's services",
+    "description": "The team experience's services are platform-level tools used to coordinate the composition of the different business capabilities into a coherent application",
+    "tags": [],
+    "uid": "a5b01292-8747-4959-ada2-eb318347fb06",
+    "link": "https://development.teamsystem.com/docs/default/component/experience-services"
+  },
+  {
+    "name": "tsec-business-intelligence-saas-infrastucture",
+    "title": "TSEC Business Intelligence SaaS Infrastucture",
+    "description": "Progetto contenente l'ambiente Terraform di inizializzazione e gestione di tutta l'infrastruttura",
+    "tags": [
+      "terraform"
+    ],
+    "uid": "a6fab248-386c-4e5d-9a3b-6cea269f4996",
+    "link": "https://development.teamsystem.com/docs/default/component/tsec-business-intelligence-saas-infrastucture"
+  },
+  {
+    "name": "m3-subscription-worker",
+    "title": "Subscription Worker",
+    "description": "Subscription Worker for M3 Subscription Manager",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "a77b09d7-171a-4fd7-b08b-fe5150616389",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-subscription-worker"
+  },
+  {
+    "name": "aml",
+    "title": "AML (Antiriciclaggio)",
+    "description": "AML (Antiriciclaggio)",
+    "tags": [],
+    "uid": "a7ba2be9-8a7e-48f5-b3b7-71bee5157cde",
+    "link": "https://development.teamsystem.com/docs/default/component/aml"
+  },
+  {
+    "name": "ts-hr-app-write",
+    "title": "TeamSystem HR App Write",
+    "description": "Ts Hr app backend for synch data",
+    "tags": [
+      "typescript",
+      "nodejs",
+      "mongodb",
+      "yarn",
+      "fastify"
+    ],
+    "uid": "a830d734-4c6b-456c-b769-d680ee43e9a4",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-write"
+  },
+  {
+    "name": "m3-service-catalog-write",
+    "title": "Service Catalog Write",
+    "description": "Service Catalog Write API for M3 Service Manager",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "aae58fc3-25f6-4653-b62a-9b2464d27afd",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-service-catalog-write"
+  },
+  {
+    "name": "tsec-business-intelligence-saas-backend",
+    "title": "TSEC Business Intelligence SaaS Backend",
+    "description": "Progetto contenente il backend del progetto TSEC Business Intelligence SaaS",
+    "tags": [
+      "nodejs16",
+      "express"
+    ],
+    "uid": "b0bde5b0-cd7c-46d8-a86d-7785a495c77f",
+    "link": "https://development.teamsystem.com/docs/default/component/tsec-business-intelligence-saas-backend"
+  },
+  {
+    "name": "ts-service-subscription-api",
+    "title": "ts-service-subscription-api",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "b1717247-b5be-498e-ad55-02c3c885140f",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-service-subscription-api"
+  },
+  {
+    "name": "business-intelligence-saas-backend",
+    "title": "Business Intelligence SaaS Backend",
+    "description": "Project containing Business Intelligence SaaS Backend.",
+    "tags": [
+      "business-intelligence",
+      "nodejs",
+      "express"
+    ],
+    "uid": "b19f40b8-1213-4156-8c23-f392f4a103ba",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-saas-backend"
+  },
+  {
+    "name": "metering-package-read",
+    "title": "metering-package-read",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "b73bc8f6-f463-43c8-a3ca-c3f61eb12f8f",
+    "link": "https://development.teamsystem.com/docs/default/component/metering-package-read"
+  },
+  {
+    "name": "validation-parser",
+    "title": "",
+    "description": "Extracts the details about the validated file coming from the government agencies",
+    "tags": [],
+    "uid": "b8fcec76-f784-4359-84bb-3441aa89b74a",
+    "link": "https://development.teamsystem.com/docs/default/component/validation-parser"
+  },
+  {
+    "name": "gov-hub",
+    "title": "Gov Hub",
+    "description": "Gov Hub",
+    "tags": [],
+    "uid": "ba2dd60c-b406-479f-bbee-12e1fa79c20f",
+    "link": "https://development.teamsystem.com/docs/default/component/gov-hub"
+  },
+  {
+    "name": "b2b-services-subscription",
+    "title": "b2b-services-subscription",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "bbfa86f9-e26b-4ed8-b23f-feb537c37309",
+    "link": "https://development.teamsystem.com/docs/default/component/b2b-services-subscription"
+  },
+  {
+    "name": "business-intelligence-anfi",
+    "title": "Business Intelligence Analisi Finanziaria",
+    "description": "Progetto contenente Analisi Finanziaria del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "bc325ae5-09cb-4d5d-b777-150b6741b6ff",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-anfi"
+  },
+  {
+    "name": "tsih-backoffice-frontend-component",
+    "title": "TSIH Backoffice Frontend",
+    "description": "TSIH Backoffice Frontend",
+    "tags": [],
+    "uid": "bc7d59f9-1f34-4307-a471-0f2f3354bd9c",
+    "link": "https://development.teamsystem.com/docs/default/component/tsih-backoffice-frontend-component"
+  },
+  {
+    "name": "ts-metering-expired-packages-disabler",
+    "title": "ts-metering-expired-packages-disabler",
+    "description": "",
+    "tags": [
+      "iso",
+      "function"
+    ],
+    "uid": "bd3b73de-a573-41d4-afdb-aabce8e6bc26",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-metering-expired-packages-disabler"
+  },
+  {
+    "name": "m3-subscriptions-read",
+    "title": "Subscriptions Read",
+    "description": "Subscriptions Read API for M3 Subscription Manager",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "bef6ef15-095e-4b88-a7d1-944304bc7203",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-subscriptions-read"
+  },
+  {
+    "name": "deadlines-bff",
+    "title": "",
+    "description": "It contains the deadlines-bff, knowns even as PaymentIncomes backend for frontend.",
+    "tags": [],
+    "uid": "bf373319-dee7-47fa-88ca-e75a8cf98033",
+    "link": "https://development.teamsystem.com/docs/default/component/deadlines-bff"
+  },
+  {
+    "name": "customer-supplier-list",
+    "title": "Customer Supplier List",
+    "description": "Customer Supplier List team centralize agnostic entities, configurations and preferences for records with different classifications, roles, services, and relationships. allowing applications to interface with customer-supplier-list and avoiding entities duplication.",
+    "tags": [],
+    "uid": "c0d73891-2617-4c09-ab4e-ac4eec9c510b",
+    "link": "https://development.teamsystem.com/docs/default/component/customer-supplier-list"
+  },
+  {
+    "name": "workspace-service",
+    "title": "Workspace",
+    "description": "Workspace",
+    "tags": [],
+    "uid": "c1516ec0-9da2-4cdc-88d9-320b2e047d0c",
+    "link": "https://development.teamsystem.com/docs/default/component/workspace-service"
+  },
+  {
+    "name": "StrongAuthMsg-sms",
+    "title": "StrongAuth-Messaging-sms",
+    "description": "Exposes API to deliver SMS messages with or without OTP, and to check OTP validity.",
+    "tags": [
+      "strongauthmsg"
+    ],
+    "uid": "c1bdb72c-d091-43fe-a928-0b78f7f4d81a",
+    "link": "https://development.teamsystem.com/docs/default/component/StrongAuthMsg-sms"
+  },
+  {
+    "name": "b2b-services-subscription-listener",
+    "title": "b2b-services-subscription-listener",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "c2221a66-15e8-4056-988c-feeeabd4fbea",
+    "link": "https://development.teamsystem.com/docs/default/component/b2b-services-subscription-listener"
+  },
+  {
+    "name": "workspace",
+    "title": "Workspace",
+    "description": "Workspace",
+    "tags": [],
+    "uid": "c2932f57-10cb-4611-b5d7-b02a32c8813f",
+    "link": "https://development.teamsystem.com/docs/default/component/workspace"
+  },
+  {
+    "name": "hr-app",
+    "title": "HR App",
+    "description": "HR App",
+    "tags": [],
+    "uid": "c347c604-2425-4169-b78f-69429a054b72",
+    "link": "https://development.teamsystem.com/docs/default/component/hr-app"
+  },
+  {
+    "name": "ts-hr-app-guard",
+    "title": "TeamSystem HR App Guard",
+    "description": "Ts Hr app Guard",
+    "tags": [
+      "typescript",
+      "nodejs",
+      "mongodb",
+      "yarn",
+      "crond"
+    ],
+    "uid": "c4391792-d835-4005-970e-98f6ba25f0d5",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-guard"
+  },
+  {
+    "name": "services-setup",
+    "title": "Services Setup",
+    "description": "TSDigital Services Setup deals with providing activation workflows for a registered services on TSDigital.",
+    "tags": [
+      "kotlin",
+      "micronaut"
+    ],
+    "uid": "c6635474-e083-4706-8813-b5f10fdc8348",
+    "link": "https://development.teamsystem.com/docs/default/component/services-setup"
+  },
+  {
+    "name": "m3-service-catalog-read",
+    "title": "Service Catalog Read",
+    "description": "Service Catalog Read API for M3 Service Manager",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "c6c5ea8e-fcd6-4143-9e56-51de90550da3",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-service-catalog-read"
+  },
+  {
+    "name": "hermes",
+    "title": "",
+    "description": "The OnePlatform event store for business events",
+    "tags": [],
+    "uid": "c823fb3d-7d9a-49d7-9bae-dd3c3500075e",
+    "link": "https://development.teamsystem.com/docs/default/component/hermes"
+  },
+  {
+    "name": "rating",
+    "title": "Rating",
+    "description": "Rating",
+    "tags": [],
+    "uid": "c85c3dcd-aa57-4c47-a1e7-950b4bb604c1",
+    "link": "https://development.teamsystem.com/docs/default/component/rating"
+  },
+  {
+    "name": "intermediary",
+    "title": "Intermediary",
+    "description": "Services handling intermediaries, delegates and security environments",
+    "tags": [],
+    "uid": "cca39440-433d-46f3-bb24-7485b82e3577",
+    "link": "https://development.teamsystem.com/docs/default/component/intermediary"
+  },
+  {
+    "name": "coldiretti-events-read",
+    "title": "Coldiretti Events Read",
+    "description": "This is a read API for coldiretti events DWH",
+    "tags": [
+      "coldiretti",
+      "backoffice",
+      "dwh"
+    ],
+    "uid": "cead6f35-09d9-4017-a535-6ace3389c24a",
+    "link": "https://development.teamsystem.com/docs/default/component/coldiretti-events-read"
+  },
+  {
+    "name": "ai-international-clementine-outgoing-clustering",
+    "title": "AI international Clementine Outgoing Clustering",
+    "description": "ML model to predict the account code of a transaction. Project developed from Clementine team.",
+    "tags": [
+      "ai",
+      "ml",
+      "python",
+      "tensorflow"
+    ],
+    "uid": "d0de6c76-3251-4042-b3d3-ddcc04aec59d",
+    "link": "https://development.teamsystem.com/docs/default/component/ai-international-clementine-outgoing-clustering"
+  },
+  {
+    "name": "metering-package-write",
+    "title": "metering-package-write",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "d1a80f31-e0c6-49da-8398-decb735acf1f",
+    "link": "https://development.teamsystem.com/docs/default/component/metering-package-write"
+  },
+  {
+    "name": "ai-assistant-app",
+    "title": "AI Assistant App",
+    "description": "It contains the AI Assistant App.",
+    "tags": [
+      "ai",
+      "assistant"
+    ],
+    "uid": "d2601213-fada-4df4-90a7-deab29838c1f",
+    "link": "https://development.teamsystem.com/docs/default/component/ai-assistant-app"
+  },
+  {
+    "name": "corporate-positions",
+    "title": "Corporate Positions",
+    "description": "Corporate Positions",
+    "tags": [],
+    "uid": "d383174c-e633-4328-9f95-6e51fea7fd19",
+    "link": "https://development.teamsystem.com/docs/default/component/corporate-positions"
+  },
+  {
+    "name": "balance-sheet-classifier",
+    "title": "Balance Sheet Classifier",
+    "description": "Classifier trained to suggest k classifications for each CountCode",
+    "tags": [
+      "ai",
+      "ml",
+      "python"
+    ],
+    "uid": "d3c6983e-df83-43e5-9d19-d7869052c56c",
+    "link": "https://development.teamsystem.com/docs/default/component/balance-sheet-classifier"
+  },
+  {
+    "name": "m3-price-list-write",
+    "title": "Price List Write",
+    "description": "Price List Write API for M3 Subscription Manager",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "d6d728a6-092d-4d20-86ad-fb40695072ad",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-price-list-write"
+  },
+  {
+    "name": "integration-hub",
+    "title": "Integration HUB",
+    "description": "Integration HUB",
+    "tags": [],
+    "uid": "d6f47746-3112-4eba-b02a-1dbb223ac410",
+    "link": "https://development.teamsystem.com/docs/default/component/integration-hub"
+  },
+  {
+    "name": "business-intelligence-ciat-fsh",
+    "title": "Business Intelligence Ciclo Attivo Fashion",
+    "description": "Progetto contenente Ciclo Attivo Fashion del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "d6fc39cb-9100-4665-a9f2-1e1dc3aed420",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-ciat-fsh"
+  },
+  {
+    "name": "ts-cloud-console",
+    "title": "TS CLOUD CONSOLE (tool ad uso interno e rivenditori)",
+    "description": "TS CLOUD CONSOLE (tool ad uso interno e rivenditori)",
+    "tags": [],
+    "uid": "d82e25db-513f-49f0-8df5-0fd8e82ab200",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-cloud-console"
+  },
+  {
+    "name": "vapor-react",
+    "title": "Vapor React Library",
+    "description": "These libraries contains React Vapor Components made used for developing applications inside TeamSystem.",
+    "tags": [
+      "react",
+      "typescript",
+      "vapor"
+    ],
+    "uid": "d8dd51fa-e113-4115-aa90-92c1bed7e0ad",
+    "link": "https://development.teamsystem.com/docs/default/component/vapor-react"
+  },
+  {
+    "name": "identity-write",
+    "title": "Identity Write",
+    "description": "Service handling identities and invitations",
+    "tags": [],
+    "uid": "da7d61d2-37e5-485b-8aa5-3ea4654627e8",
+    "link": "https://development.teamsystem.com/docs/default/component/identity-write"
+  },
+  {
+    "name": "business-intelligence-prod-fsh",
+    "title": "Business Intelligence Produzione Fashion",
+    "description": "Progetto contenente  Produzione Fashion del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "db0179fb-13f8-49f4-a117-12b590936a60",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-prod-fsh"
+  },
+  {
+    "name": "business-intelligence-backend",
+    "title": "Business Intelligence Backend",
+    "description": "Progetto contenente il backend del progetto Business Intelligence",
+    "tags": [
+      "nodejs16",
+      "express"
+    ],
+    "uid": "db93eb9b-6326-4bb6-9164-a5b33e5210c5",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-backend"
+  },
+  {
+    "name": "girino-distribution-db",
+    "title": "",
+    "description": "Girino Distribution database",
+    "tags": [],
+    "uid": "dc395f85-7761-4b3c-9b48-0c077785d2b1",
+    "link": "https://development.teamsystem.com/docs/default/component/girino-distribution-db"
+  },
+  {
+    "name": "intermediary-registry-write",
+    "title": "Intermediary Registry Write",
+    "description": "Services handling intermediaries, delegates and security environments",
+    "tags": [],
+    "uid": "dc48d452-9653-4379-a94e-12d4e833c062",
+    "link": "https://development.teamsystem.com/docs/default/component/intermediary-registry-write"
+  },
+  {
+    "name": "connections",
+    "title": "Connections",
+    "description": "Connections",
+    "tags": [],
+    "uid": "df8a9041-b597-4592-b0ea-de32c29d5982",
+    "link": "https://development.teamsystem.com/docs/default/component/connections"
+  },
+  {
+    "name": "ts-hr-app-ios",
+    "title": "TeamSystem HR App iOS",
+    "description": "Ts Hr app iOS",
+    "tags": [
+      "ios",
+      "swift"
+    ],
+    "uid": "e09de726-a9a4-4205-a5f1-fe32118cfc11",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-ios"
+  },
+  {
+    "name": "annotator",
+    "title": "",
+    "description": "Annotator",
+    "tags": [],
+    "uid": "e21082ca-a321-480d-806e-9e7e0797ebd4",
+    "link": "https://development.teamsystem.com/docs/default/component/annotator"
+  },
+  {
+    "name": "business-intelligence-console",
+    "title": "Business Intelligence Console",
+    "description": "Progetto contenente l'Console del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "e32d7820-5243-44b5-ad63-ac70ff748cd9",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-console"
+  },
+  {
+    "name": "ts-metering-usage-broker",
+    "title": "ts-metering-usage-broker",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "e5bca517-9cf7-4b24-91f6-6d26429d313c",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-metering-usage-broker"
+  },
+  {
+    "name": "vapor-angular",
+    "title": "Vapor Angular Library",
+    "description": "These libraries contains components and services Angular made used for developing applications inside TeamSystem.",
+    "tags": [
+      "angular",
+      "vapor",
+      "typescript",
+      "html",
+      "css",
+      "rxjs",
+      "devextreme",
+      "tsx",
+      "one-front",
+      "google",
+      "maps"
+    ],
+    "uid": "e6a87776-46f6-451e-b633-6e0ed3b05768",
+    "link": "https://development.teamsystem.com/docs/default/component/vapor-angular"
+  },
+  {
+    "name": "privacy",
+    "title": "Privacy",
+    "description": "Privacy",
+    "tags": [],
+    "uid": "e6c5387a-3ed3-4d4c-a3dd-3a27a402b720",
+    "link": "https://development.teamsystem.com/docs/default/component/privacy"
+  },
+  {
+    "name": "metering-consumption-read",
+    "title": "metering-consumption-read",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "e8741109-7d15-4d60-9d99-e0d1a5d508ca",
+    "link": "https://development.teamsystem.com/docs/default/component/metering-consumption-read"
+  },
+  {
+    "name": "ts-studio-cloud-infrastruttura",
+    "title": "TS STUDIO CLOUD Infrastruttura",
+    "description": "TS STUDIO CLOUD Infrastruttura",
+    "tags": [],
+    "uid": "ec59f43d-5be4-4bf7-ad31-b24998f711ce",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-studio-cloud-infrastruttura"
+  },
+  {
+    "name": "gaas",
+    "title": "gaas",
+    "description": "Cloud agent",
+    "tags": [],
+    "uid": "ec6d453f-e8e3-4a52-8021-90fef15e8dc7",
+    "link": "https://development.teamsystem.com/docs/default/component/gaas"
+  },
+  {
+    "name": "m3-subscriptions-subscriber",
+    "title": "Subscriptions Subscriber",
+    "description": "Subscriptions Subscriber API for M3 Subscription Manager",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "ed3fc84a-f929-4888-a60c-a6c0a3926643",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-subscriptions-subscriber"
+  },
+  {
+    "name": "ts-metering-service",
+    "title": "ts-metering-service",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "ed54018f-70a9-4182-80bd-8b026b66f702",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-metering-service"
+  },
+  {
+    "name": "docstore-read",
+    "title": "",
+    "description": "DocStore Read Api",
+    "tags": [],
+    "uid": "eefa6e59-7619-46c5-ad58-b27275249766",
+    "link": "https://development.teamsystem.com/docs/default/component/docstore-read"
+  },
+  {
+    "name": "certified-contacts-write",
+    "title": "Certified Contacts Write",
+    "description": "Component responsible for updating certified contacts",
+    "tags": [
+      "certified-contacts"
+    ],
+    "uid": "ef90016e-f2ba-4242-9e6a-f8ca1c710b56",
+    "link": "https://development.teamsystem.com/docs/default/component/certified-contacts-write"
+  },
+  {
+    "name": "business-intelligence-login",
+    "title": "Business Intelligence Login",
+    "description": "Progetto contenente la login del progetto Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "f16a71c3-7858-46cc-8fd2-295fc35b4d09",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-login"
+  },
+  {
+    "name": "tax-fillings",
+    "title": "Tax Fillings (Fiscali SaaS)",
+    "description": "Tax Fillings (Fiscali SaaS)",
+    "tags": [],
+    "uid": "f3527eff-e9b1-4517-8355-2e34cc907bb0",
+    "link": "https://development.teamsystem.com/docs/default/component/tax-fillings"
+  },
+  {
+    "name": "iam",
+    "title": "IAM (TS ID)",
+    "description": "IAM (TS ID)",
+    "tags": [],
+    "uid": "f43875ef-e829-4ecb-9c61-e3261612c6e6",
+    "link": "https://development.teamsystem.com/docs/default/component/iam"
+  },
+  {
+    "name": "tsih-backoffice-api-component",
+    "title": "TSIH Backoffice Backend Component",
+    "description": "TSIH Backoffice Backend Component",
+    "tags": [],
+    "uid": "f45833c1-9365-49ce-b3ce-5e3ed9036acd",
+    "link": "https://development.teamsystem.com/docs/default/component/tsih-backoffice-api-component"
+  },
+  {
+    "name": "ts-metering-reports-generator",
+    "title": "ts-metering-reports-generator",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "f4753abf-b965-4533-bb59-0e86e74941f9",
+    "link": "https://development.teamsystem.com/docs/default/component/ts-metering-reports-generator"
+  },
+  {
+    "name": "optin",
+    "title": "OptIn Component",
+    "description": "Services handling creation and management of opt-ins",
+    "tags": [],
+    "uid": "f4f2f7c6-617c-4240-ada2-fef7adc6798f",
+    "link": "https://development.teamsystem.com/docs/default/component/optin"
+  },
+  {
+    "name": "m3-service-catalog-worker",
+    "title": "Service Catalog Worker",
+    "description": "Service Catalog Worker for M3 Service Manager",
+    "tags": [
+      "iso",
+      "kotlin",
+      "quarkus"
+    ],
+    "uid": "f7d3320e-1616-43cd-89ff-3ea339989f20",
+    "link": "https://development.teamsystem.com/docs/default/component/m3-service-catalog-worker"
+  },
+  {
+    "name": "ucs",
+    "title": "Unified Communication Service (UCS)",
+    "description": "UCS is a service that provides conversational communication\ncapabilities over different channels (WhatsApp, ...) between TS customers\nand other actors.\n",
+    "tags": [],
+    "uid": "f8460b92-f14c-4ae9-83d6-4e28f4198734",
+    "link": "https://development.teamsystem.com/docs/default/component/ucs"
+  },
+  {
+    "name": "business-intelligence-installer-app",
+    "title": "Business Intelligence Installer",
+    "description": "Progetto contenente le utils del progetto Business Intelligence",
+    "tags": [
+      "c#"
+    ],
+    "uid": "f85d2b06-5ba3-4a82-b3f6-b7bc96470ef1",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-installer-app"
+  },
+  {
+    "name": "jiracli-ts-studio",
+    "title": "JiraCLI",
+    "description": "This CLI simplifies Jira interaction for legacy Cobol app installer resource list generation",
+    "tags": [
+      "jiracli",
+      "ts-studio",
+      "cobol",
+      "javascript"
+    ],
+    "uid": "f8a506dd-b78e-4b83-9af2-5ce834b31c68",
+    "link": "https://development.teamsystem.com/docs/default/component/jiracli-ts-studio"
+  },
+  {
+    "name": "metering-archiver-read",
+    "title": "metering-archiver-read",
+    "description": "",
+    "tags": [
+      "iso"
+    ],
+    "uid": "f8b70012-cbc2-4428-a18c-47e5e29abdfb",
+    "link": "https://development.teamsystem.com/docs/default/component/metering-archiver-read"
+  },
+  {
+    "name": "horeca-hub",
+    "title": "HoReCa HUB - TeamSystem Integration Platform",
+    "description": "System integration platform created and designed for the HoReCa area.",
+    "tags": [],
+    "uid": "f8f8c5d9-eb73-460d-acb7-a88e88a7fc6e",
+    "link": "https://development.teamsystem.com/docs/default/component/horeca-hub"
+  },
+  {
+    "name": "coldiretti-dwh",
+    "title": "Coldiretti DWH",
+    "description": "Coldiretti DWH",
+    "tags": [],
+    "uid": "fa6d03a2-25dc-49bd-8c69-a73cd51b394b",
+    "link": "https://development.teamsystem.com/docs/default/component/coldiretti-dwh"
+  },
+  {
+    "name": "insights",
+    "title": "Insights",
+    "description": "Insights",
+    "tags": [],
+    "uid": "fcc8910c-dd86-4263-8c5d-9e7cd0b8fda0",
+    "link": "https://development.teamsystem.com/docs/default/component/insights"
+  },
+  {
+    "name": "business-intelligence-general-mashups-schema",
+    "title": "Business Intelligence General Mashups Schema",
+    "description": "Progetto generico che raggruppa la documentazione comune a tutte le applicazioni fisse di Enterprise Business Intelligence",
+    "tags": [
+      "angular",
+      "typescript",
+      "html",
+      "css"
+    ],
+    "uid": "fe6050c2-ff71-4f41-9ce4-dfb45bcc33f8",
+    "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-general-mashups-schema"
+  }
+]
