@@ -17,7 +17,7 @@
       "authentication"
     ],
     "profileImage": "https://example.com/profiles/247$6420.jpg",
-    "email": "bruno.skendaj@teamsystem.com"
+    "email": "b.skendaj@teamsystem.com"
   },
   "contacts": [
     {
@@ -39,7 +39,7 @@
       ],
       "teamSize": 76,
       "profileImage": "https://example.com/profiles/247$3718.jpg",
-      "email": "elis.pelivani@teamsystem.com"
+      "email": "e.pelivani@teamsystem.com"
     },
     {
       "id": "247$3666",
@@ -66,7 +66,7 @@
       ],
       "teamSize": 29,
       "profileImage": "https://example.com/profiles/247$3666.jpg",
-      "email": "ira.hysaj@teamsystem.com"
+      "email": "i.hysaj@teamsystem.com"
     },
     {
       "id": "247$4924",
@@ -92,7 +92,7 @@
       ],
       "teamSize": 32,
       "profileImage": "https://example.com/profiles/247$4924.jpg",
-      "email": "klaus.kalemi@teamsystem.com"
+      "email": "k.kalemi@teamsystem.com"
     },
     {
       "id": "247$6963",
@@ -117,7 +117,7 @@
       ],
       "teamSize": 3,
       "profileImage": "https://example.com/profiles/247$6963.jpg",
-      "email": "luca.dandria@teamsystem.com"
+      "email": "l.dandria@teamsystem.com"
     },
     {
       "id": "247$3628",
@@ -141,7 +141,7 @@
       ],
       "teamSize": 12,
       "profileImage": "https://example.com/profiles/247$3628.jpg",
-      "email": "bruno.fonzi@teamsystem.com"
+      "email": "b.fonzi@teamsystem.com"
     },
     {
       "id": "247$3554",
@@ -166,7 +166,7 @@
       ],
       "teamSize": 7,
       "profileImage": "https://example.com/profiles/247$3554.jpg",
-      "email": "tommaso.cohen@teamsystem.com"
+      "email": "t.cohen@teamsystem.com"
     },
     {
       "id": "247$3572",
@@ -186,7 +186,7 @@
       ],
       "teamSize": 17,
       "profileImage": "https://example.com/profiles/247$3572.jpg",
-      "email": "federico.leproux@teamsystem.com"
+      "email": "f.leproux@teamsystem.com"
     },
     {
       "id": "hr_001",
@@ -211,7 +211,7 @@
       ],
       "teamSize": 5,
       "profileImage": "https://example.com/profiles/hr_eleonora_tonelli.jpg",
-      "email": "eleonora.tonelli@teamsystem.com",
+      "email": "e.tonelli@teamsystem.com",
       "supportType": "People / Processes"
     },
     {
@@ -238,7 +238,7 @@
       ],
       "teamSize": 0,
       "profileImage": "https://example.com/profiles/tech_enea_aliko.jpg",
-      "email": "enea.aliko@teamsystem.com",
+      "email": "e.aliko@teamsystem.com",
       "specialization": "Vapor Library"
     }
   ],

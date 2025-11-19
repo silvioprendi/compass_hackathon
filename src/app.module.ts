@@ -6,6 +6,7 @@ import { UserModule } from './user/user.module';
 import { KnowledgeModule } from './knowledge/knowledge.module';
 import { DevPortalModule } from './dev-portal/dev-portal.module';
 import { ContactsModule } from './contacts/contacts.module';
+import { QnAModule } from './qna/qna.module';
 
 @Module({
   imports: [
@@ -28,6 +29,7 @@ import { ContactsModule } from './contacts/contacts.module';
     KnowledgeModule,
     DevPortalModule,
     ContactsModule,
+    QnAModule,
   ],
 })
 export class AppModule {}

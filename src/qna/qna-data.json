@@ -1,0 +1,32 @@
+[
+  {
+    "id": "vapor-migrate-v2-v3",
+    "question": "How To Migrate a Contrib Project from Vapor 2 to Vapor 3",
+    "keywords": ["vapor", "migrate", "migration", "vapor 2", "vapor 3", "upgrade"],
+    "summary": "Remove old Vapor 2 dependencies, install @vapor/v3-components, update rollup, tsconfig and CI configs. Follow the new versioning rules.",
+    "answer": "To migrate from Vapor 2 to Vapor 3:\n1. Remove old Vapor 2 dependencies\n2. Install @vapor/v3-components\n3. Update rollup configuration\n4. Update tsconfig.json\n5. Update CI configs\n6. Follow the new versioning rules",
+    "fullGuideLink": "https://development.teamsystem.com/docs/default/component/vapor-react",
+    "relatedSkills": ["vapor", "react", "typescript", "frontend"],
+    "relatedTags": ["vapor", "react", "typescript"]
+  },
+  {
+    "id": "vapor-new-project",
+    "question": "How To Create a New Project - Vapor Components for React",
+    "keywords": ["vapor", "create", "new project", "react", "setup", "initialize"],
+    "summary": "To create a new Vapor contrib project, request a maintainer to set it up, configure branches (main/develop), and set repository rules. Initialize files like package.json, .editorconfig, rollup.config.js.",
+    "answer": "To create a new Vapor contrib project:\n1. Request a maintainer to set up the repository\n2. Configure branches (main/develop)\n3. Set repository rules\n4. Initialize package.json\n5. Add .editorconfig\n6. Configure rollup.config.js\n7. Set up initial project structure",
+    "fullGuideLink": "https://development.teamsystem.com/docs/default/component/vapor-react/create-project",
+    "relatedSkills": ["vapor", "react", "typescript", "frontend", "project setup"],
+    "relatedTags": ["vapor", "react", "typescript"]
+  },
+  {
+    "id": "vapor-new-component",
+    "question": "How To Create a New Vapor Contrib Component",
+    "keywords": ["vapor", "component", "create", "contrib", "storybook"],
+    "summary": "A Vapor Contrib component requires a source file, a Storybook file, and an export proxy. Follow Vapor Gitflow, create your feature branch, and scaffold the component structure inside /src.",
+    "answer": "To create a new Vapor Contrib component:\n1. Follow Vapor Gitflow process\n2. Create your feature branch\n3. Create source file in /src\n4. Create Storybook file for documentation\n5. Add export proxy\n6. Scaffold the component structure properly\n7. Write tests and documentation",
+    "fullGuideLink": "https://development.teamsystem.com/docs/default/component/vapor-react/create-contrib-component",
+    "relatedSkills": ["vapor", "react", "typescript", "frontend", "storybook", "ui components"],
+    "relatedTags": ["vapor", "react", "typescript", "angular"]
+  }
+]
