@@ -1,0 +1,267 @@
+{
+  "currentUser": {
+    "id": "247$6420",
+    "name": "BRUNO SKENDAJ",
+    "role": "Software Engineer",
+    "department": "Engineering TeamSystem Tirana - Professional & Cross",
+    "location": "TIRANA_KOMPLEKSI DELIJORGJI",
+    "skills": ["ReactJS", "TSCyber", "Trust & Cyber"],
+    "expertise": ["react", "reactjs", "typescript", "javascript", "frontend", "security", "cyber security", "authentication"],
+    "profileImage": "https://example.com/profiles/247$6420.jpg",
+    "email": "bruno.skendaj@teamsystem.com"
+  },
+  "contacts": [
+    {
+      "id": "247$3718",
+      "name": "ELIS PELIVANI",
+      "role": "Engineering Lead",
+      "department": "Engineering Micro",
+      "location": "TIRANA_KOMPLEKSI DELIJORGJI",
+      "hierarchyLevel": 1,
+      "hierarchyType": "manager",
+      "relationshipToBruno": "Direct Manager",
+      "skills": ["Software Architecture", "Department Management"],
+      "expertise": ["software architecture", "backend", "microservices", "technical leadership", "engineering"],
+      "teamSize": 76,
+      "profileImage": "https://example.com/profiles/247$3718.jpg",
+      "email": "elis.pelivani@teamsystem.com"
+    },
+    {
+      "id": "247$3666",
+      "name": "IRA HYSAJ",
+      "role": "Team Lead",
+      "department": "Engineering TeamSystem Tirana",
+      "location": "TIRANA_KOMPLEKSI DELIJORGJI",
+      "hierarchyLevel": 0,
+      "hierarchyType": "peer",
+      "relationshipToBruno": "Peer - Team Lead",
+      "skills": ["Team Leadership", "Project Management", "Software Development"],
+      "expertise": ["ai", "ml", "machine learning", "business intelligence", "analytics", "python", "team leadership"],
+      "teamSize": 29,
+      "profileImage": "https://example.com/profiles/247$3666.jpg",
+      "email": "ira.hysaj@teamsystem.com"
+    },
+    {
+      "id": "247$4924",
+      "name": "KLAUS KALEMI",
+      "role": "Team Lead",
+      "department": "Engineering TeamSystem Tirana",
+      "location": "TIRANA_KOMPLEKSI DELIJORGJI",
+      "hierarchyLevel": 0,
+      "hierarchyType": "peer",
+      "relationshipToBruno": "Peer - Team Lead",
+      "skills": ["Team Leadership", "Project Management", "Software Development"],
+      "expertise": ["python", "backend", "payroll", "api development", "microservices", "team leadership"],
+      "teamSize": 32,
+      "profileImage": "https://example.com/profiles/247$4924.jpg",
+      "email": "klaus.kalemi@teamsystem.com"
+    },
+    {
+      "id": "247$6963",
+      "name": "LUCA DANDRIA",
+      "role": "Engineering Manager",
+      "department": "Engineering Manager",
+      "location": "MILANO_P.ZZA LUIGI EINAUDI",
+      "hierarchyLevel": 2,
+      "hierarchyType": "senior_manager",
+      "relationshipToBruno": "Manager's Manager",
+      "skills": ["Team Leadership", "Project Management", "Software Development"],
+      "expertise": ["engineering", "software development", "project management", "team leadership", "technical management"],
+      "teamSize": 3,
+      "profileImage": "https://example.com/profiles/247$6963.jpg",
+      "email": "luca.dandria@teamsystem.com"
+    },
+    {
+      "id": "247$3628",
+      "name": "BRUNO FONZI",
+      "role": "Department Leader",
+      "department": "Finance Marketing & Technology",
+      "location": "MILANO_P.ZZA LUIGI EINAUDI",
+      "hierarchyLevel": 3,
+      "hierarchyType": "department_head",
+      "relationshipToBruno": "Department Leader",
+      "skills": ["Department Management", "Cross-functional Leadership", "Operational Excellence"],
+      "expertise": ["department management", "operations", "cross-functional teams", "leadership"],
+      "teamSize": 12,
+      "profileImage": "https://example.com/profiles/247$3628.jpg",
+      "email": "bruno.fonzi@teamsystem.com"
+    },
+    {
+      "id": "247$3554",
+      "name": "TOMMASO GIOVANNI COHEN",
+      "role": "Executive",
+      "department": "Finance Marketing & Technology",
+      "location": "PESARO",
+      "hierarchyLevel": 4,
+      "hierarchyType": "executive",
+      "relationshipToBruno": "Executive Level",
+      "skills": ["Corporate Strategy", "Financial Management", "Technology Innovation"],
+      "expertise": ["finance", "marketing", "technology", "innovation", "corporate strategy"],
+      "teamSize": 7,
+      "profileImage": "https://example.com/profiles/247$3554.jpg",
+      "email": "tommaso.cohen@teamsystem.com"
+    },
+    {
+      "id": "247$3572",
+      "name": "FEDERICO LEPROUX",
+      "role": "CEO",
+      "department": "Teamsystem Group",
+      "location": "MILANO_P.ZZA LUIGI EINAUDI",
+      "hierarchyLevel": 5,
+      "hierarchyType": "ceo",
+      "relationshipToBruno": "CEO",
+      "skills": ["Leadership", "Strategic Planning", "Business Development"],
+      "expertise": ["strategy", "business", "leadership", "executive decisions"],
+      "teamSize": 17,
+      "profileImage": "https://example.com/profiles/247$3572.jpg",
+      "email": "federico.leproux@teamsystem.com"
+    },
+    {
+      "id": "hr_001",
+      "name": "ELEONORA TONELLI",
+      "role": "Human Resources",
+      "department": "Human Resources",
+      "location": "MILANO_P.ZZA LUIGI EINAUDI",
+      "hierarchyLevel": 0,
+      "hierarchyType": "support",
+      "relationshipToBruno": "HR Support",
+      "skills": ["Human Resources", "People Management", "Employee Relations"],
+      "expertise": ["hr", "human resources", "payroll hr", "benefits", "onboarding", "employee relations", "hiring", "people management", "processes"],
+      "teamSize": 5,
+      "profileImage": "https://example.com/profiles/hr_eleonora_tonelli.jpg",
+      "email": "eleonora.tonelli@teamsystem.com",
+      "supportType": "People / Processes"
+    },
+    {
+      "id": "tech_001",
+      "name": "ENEA ALIKO",
+      "role": "Technical Specialist",
+      "department": "Engineering",
+      "location": "TIRANA_KOMPLEKSI DELIJORGJI",
+      "hierarchyLevel": 0,
+      "hierarchyType": "specialist",
+      "relationshipToBruno": "Technical Specialist - Vapor Library",
+      "skills": ["Library Development", "Component Architecture", "Technical Documentation"],
+      "expertise": ["vapor", "vapor library", "ui components", "design systems", "libraries", "frontend architecture"],
+      "teamSize": 0,
+      "profileImage": "https://example.com/profiles/tech_enea_aliko.jpg",
+      "email": "enea.aliko@teamsystem.com",
+      "specialization": "Vapor Library"
+    }
+  ],
+  "skillIndex": {
+    "vapor": ["tech_001"],
+    "vapor library": ["tech_001"],
+    "ui components": ["tech_001", "247$6420"],
+    "react": ["247$6420"],
+    "reactjs": ["247$6420"],
+    "typescript": ["247$6420"],
+    "frontend": ["247$6420", "tech_001"],
+    "security": ["247$6420"],
+    "cyber security": ["247$6420"],
+    "authentication": ["247$6420", "247$3718"],
+    "python": ["247$3666", "247$4924"],
+    "ai": ["247$3666"],
+    "ml": ["247$3666"],
+    "machine learning": ["247$3666"],
+    "business intelligence": ["247$3666"],
+    "analytics": ["247$3666"],
+    "payroll": ["247$4924"],
+    "backend": ["247$4924", "247$3718"],
+    "microservices": ["247$3718", "247$4924"],
+    "software architecture": ["247$3718"],
+    "engineering": ["247$3718", "247$6963"],
+    "team leadership": ["247$3666", "247$4924", "247$6963"],
+    "project management": ["247$3666", "247$4924", "247$6963"],
+    "hr": ["hr_001"],
+    "human resources": ["hr_001"],
+    "benefits": ["hr_001"],
+    "onboarding": ["hr_001"],
+    "hiring": ["hr_001"],
+    "people management": ["hr_001"],
+    "leadership": ["247$3572", "247$3554", "247$3628"],
+    "strategy": ["247$3572", "247$3554"],
+    "finance": ["247$3554"],
+    "operations": ["247$3628"]
+  },
+  "brunosNetwork": {
+    "reportingChain": {
+      "description": "Bruno's escalation path for technical and management issues",
+      "contacts": [
+        {
+          "id": "247$3718",
+          "name": "ELIS PELIVANI",
+          "level": 1,
+          "relationship": "Direct Manager"
+        },
+        {
+          "id": "247$6963",
+          "name": "LUCA DANDRIA",
+          "level": 2,
+          "relationship": "Engineering Manager"
+        },
+        {
+          "id": "247$3628",
+          "name": "BRUNO FONZI",
+          "level": 3,
+          "relationship": "Department Leader"
+        },
+        {
+          "id": "247$3554",
+          "name": "TOMMASO GIOVANNI COHEN",
+          "level": 4,
+          "relationship": "Executive"
+        },
+        {
+          "id": "247$3572",
+          "name": "FEDERICO LEPROUX",
+          "level": 5,
+          "relationship": "CEO"
+        }
+      ]
+    },
+    "peers": {
+      "description": "Bruno's team leads and colleagues at the same level",
+      "contacts": [
+        {
+          "id": "247$3666",
+          "name": "IRA HYSAJ",
+          "specialization": "AI/ML, Business Intelligence"
+        },
+        {
+          "id": "247$4924",
+          "name": "KLAUS KALEMI",
+          "specialization": "Backend, Payroll Systems"
+        }
+      ]
+    },
+    "specialists": {
+      "description": "Technical specialists Bruno can consult for specific expertise",
+      "contacts": [
+        {
+          "id": "tech_001",
+          "name": "ENEA ALIKO",
+          "specialization": "Vapor Library"
+        }
+      ]
+    },
+    "support": {
+      "description": "Support contacts for non-technical matters",
+      "contacts": [
+        {
+          "id": "hr_001",
+          "name": "ELEONORA TONELLI",
+          "specialization": "HR & People Processes"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "forUser": "BRUNO SKENDAJ",
+    "userId": "247$6420",
+    "department": "Engineering TeamSystem Tirana - Professional & Cross",
+    "location": "TIRANA_KOMPLEKSI DELIJORGJI",
+    "lastUpdated": "2025-11-19",
+    "totalContacts": 10
+  }
+}
