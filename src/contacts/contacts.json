@@ -36,8 +36,13 @@
         "engineering",
         "team management",
         "performance review",
+        "performance reviews",
         "performance evaluations",
-        "performance"
+        "performance",
+        "reviews",
+        "evaluation",
+        "manages performance",
+        "direct manager"
       ],
       "teamSize": 76,
       "email": "e.pelivani@teamsystem.com"
@@ -299,8 +304,12 @@
     "engineering": ["247$3718", "247$6963"],
     "team management": ["247$3718", "247$6963"],
     "performance review": ["247$3718"],
+    "performance reviews": ["247$3718"],
     "performance evaluations": ["247$3718"],
     "performance": ["247$3718"],
+    "reviews": ["247$3718"],
+    "evaluation": ["247$3718"],
+    "manages performance": ["247$3718"],
     "team leadership": ["247$3666", "247$4924", "247$6963"],
     "project management": ["247$3666", "247$4924", "247$6963"],
     "hr": ["hr_001"],
