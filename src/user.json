@@ -1,0 +1,166 @@
+{
+  "currentUser": {
+    "name": "BRUNO SKENDAJ",
+    "id": "247$6420"
+  },
+  "organizationalHierarchy": {
+    "ceo": {
+      "name": "FEDERICO LEPROUX",
+      "role": "CEO",
+      "department": "Teamsystem Group",
+      "location": "MILANO_P.ZZA LUIGI EINAUDI",
+      "relationship": "indirect",
+      "skills": ["Leadership", "Strategic Planning", "Business Development"],
+      "teamSize": 17
+    },
+    "executive": {
+      "name": "TOMMASO GIOVANNI COHEN",
+      "role": "Executive",
+      "department": "Finance Marketing & Technology",
+      "location": "PESARO",
+      "relationship": "indirect",
+      "skills": [
+        "Corporate Strategy",
+        "Financial Management",
+        "Technology Innovation"
+      ],
+      "teamSize": 7
+    },
+    "departmentHead": {
+      "name": "BRUNO FONZI",
+      "role": "Department Leader",
+      "department": "Finance Marketing & Technology",
+      "location": "MILANO_P.ZZA LUIGI EINAUDI",
+      "relationship": "indirect",
+      "skills": [
+        "Department Management",
+        "Cross-functional Leadership",
+        "Operational Excellence"
+      ],
+      "teamSize": 12
+    },
+    "engineeringManager": {
+      "name": "LUCA DANDRIA",
+      "role": "Engineering Manager",
+      "department": "Engineering Manager",
+      "location": "MILANO_P.ZZA LUIGI EINAUDI",
+      "relationship": "indirect",
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Software Development"
+      ],
+      "teamSize": 3
+    },
+    "directManager": {
+      "name": "ELIS PELIVANI",
+      "role": "Engineering Lead",
+      "department": "Engineering Micro",
+      "location": "TIRANA_KOMPLEKSI DELIJORGJI",
+      "relationship": "direct",
+      "skills": [
+        "Software Architecture",
+        "Code Review",
+        "Mentorship",
+        "Department Management"
+      ],
+      "teamSize": 76
+    },
+    "self": {
+      "name": "BRUNO SKENDAJ",
+      "role": "Software Engineer",
+      "department": "Engineering TeamSystem Tirana - Professional & Cross",
+      "location": "TIRANA_KOMPLEKSI DELIJORGJI",
+      "relationship": "self",
+      "teamSize": 0
+    },
+    "peers": [
+      {
+        "name": "IRA HYSAJ",
+        "role": "Team Lead",
+        "department": "Engineering TeamSystem Tirana",
+        "location": "TIRANA_KOMPLEKSI DELIJORGJI",
+        "relationship": "peer",
+        "teamSize": 29,
+        "hasSubordinates": true
+      },
+      {
+        "name": "KLAUS KALEMI",
+        "role": "Team Lead",
+        "department": "Engineering TeamSystem Tirana",
+        "location": "TIRANA_KOMPLEKSI DELIJORGJI",
+        "relationship": "peer",
+        "teamSize": 32,
+        "hasSubordinates": true
+      }
+    ]
+  },
+  "reportingChain": [
+    {
+      "level": 1,
+      "name": "ELIS PELIVANI",
+      "role": "Engineering Lead - Direct Manager",
+      "department": "Engineering Micro",
+      "location": "TIRANA_KOMPLEKSI DELIJORGJI",
+      "escalationType": "technical"
+    },
+    {
+      "level": 2,
+      "name": "LUCA DANDRIA",
+      "role": "Engineering Manager",
+      "department": "Engineering Manager",
+      "location": "MILANO_P.ZZA LUIGI EINAUDI",
+      "escalationType": "engineering"
+    },
+    {
+      "level": 3,
+      "name": "BRUNO FONZI",
+      "role": "Department Leader",
+      "department": "Finance Marketing & Technology",
+      "location": "MILANO_P.ZZA LUIGI EINAUDI",
+      "escalationType": "departmental"
+    },
+    {
+      "level": 4,
+      "name": "TOMMASO GIOVANNI COHEN",
+      "role": "Executive",
+      "department": "Finance Marketing & Technology",
+      "location": "PESARO",
+      "escalationType": "executive"
+    },
+    {
+      "level": 5,
+      "name": "FEDERICO LEPROUX",
+      "role": "CEO",
+      "department": "Teamsystem Group",
+      "location": "MILANO_P.ZZA LUIGI EINAUDI",
+      "escalationType": "ceo"
+    }
+  ],
+  "parallelContacts": {
+    "hrContact": {
+      "name": "ELEONORA TONELLI",
+      "role": "Human Resources",
+      "relationship": "parallel",
+      "supportType": "People / Processes"
+    }
+  },
+  "projectContext": {
+    "projectName": "Vapor Library",
+    "keyTechnicalContact": {
+      "name": "ENEA ALIKO",
+      "role": "Technical Contact",
+      "department": "Engineering",
+      "relationship": "project"
+    }
+  },
+  "metadata": {
+    "myLocation": "TIRANA_KOMPLEKSI DELIJORGJI",
+    "myDepartment": "Engineering TeamSystem Tirana - Professional & Cross",
+    "totalPeersUnderSameManager": 75,
+    "directTeammates": 3,
+    "contractorCount": 2,
+    "employmentType": "Full-time Employee",
+    "lastUpdated": "2025-11-19"
+  }
+}

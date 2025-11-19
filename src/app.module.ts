@@ -4,6 +4,9 @@ import { TypeOrmModule, TypeOrmModuleOptions } from '@nestjs/typeorm';
 import databaseConfig from './config/database.config';
 import { UserModule } from './user/user.module';
 import { KnowledgeModule } from './knowledge/knowledge.module';
+import { DevPortalModule } from './dev-portal/dev-portal.module';
+import { ContactsModule } from './contacts/contacts.module';
+import { QnAModule } from './qna/qna.module';
 
 @Module({
   imports: [
@@ -24,6 +27,9 @@ import { KnowledgeModule } from './knowledge/knowledge.module';
     }),
     UserModule,
     KnowledgeModule,
+    DevPortalModule,
+    ContactsModule,
+    QnAModule,
   ],
 })
 export class AppModule {}

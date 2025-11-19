@@ -3,9 +3,7 @@
     "name": "ts-metering-privacy-broker",
     "title": "ts-metering-privacy-broker",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "034733af-44c2-488e-8997-ba72c6e6bf69",
     "link": "https://development.teamsystem.com/docs/default/component/ts-metering-privacy-broker"
   },
@@ -13,11 +11,7 @@
     "name": "ai-platform-evaluator",
     "title": "AI Platform Evaluator",
     "description": "Service for evaluating agents accuracy and performance",
-    "tags": [
-      "ai",
-      "ml",
-      "python"
-    ],
+    "tags": ["ai", "ml", "python"],
     "uid": "03727482-d1c4-4fa9-a178-80ce3fe5930e",
     "link": "https://development.teamsystem.com/docs/default/component/ai-platform-evaluator"
   },
@@ -33,12 +27,7 @@
     "name": "business-intelligence-template",
     "title": "Business Intelligence Template Extension",
     "description": "Progetto contenente Template Extension del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "069e9ba0-5cef-49ba-80c6-81e334f733e9",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-template"
   },
@@ -78,9 +67,7 @@
     "name": "ts-hr-app-static-hmtl",
     "title": "TeamSystem HR App Static Hmtl",
     "description": "Ts Hr app Static Hmtl",
-    "tags": [
-      "html"
-    ],
+    "tags": ["html"],
     "uid": "092e399d-47db-4fe9-9946-c44db8ef3a7b",
     "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-static-hmtl"
   },
@@ -104,10 +91,7 @@
     "name": "backend-immobilisaas",
     "title": "Backend",
     "description": "Descrive le api backend di ImmobiliSaaS",
-    "tags": [
-      "backend",
-      "immobilisaas"
-    ],
+    "tags": ["backend", "immobilisaas"],
     "uid": "0dff5728-457c-4a81-8c5e-d4eabd6f4901",
     "link": "https://development.teamsystem.com/docs/default/component/backend-immobilisaas"
   },
@@ -131,12 +115,7 @@
     "name": "business-intelligence-maga-fsh",
     "title": "Business Intelligence Magazzino Fashion",
     "description": "Progetto contenente  Magazzino Fashion del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "119bec73-7141-440e-9810-5b088de9445e",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-maga-fsh"
   },
@@ -160,9 +139,7 @@
     "name": "metering-notification-hub",
     "title": "metering-notification-hub",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "14136e9b-ca65-4a41-832a-89318f4f2a50",
     "link": "https://development.teamsystem.com/docs/default/component/metering-notification-hub"
   },
@@ -170,12 +147,7 @@
     "name": "ts-wallet",
     "title": "Wallet Service",
     "description": "Service that manages virtual credits between companies and users",
-    "tags": [
-      "rest",
-      "typescript",
-      "aws",
-      "wallet"
-    ],
+    "tags": ["rest", "typescript", "aws", "wallet"],
     "uid": "171e87a6-761a-494f-9ce3-74741978726b",
     "link": "https://development.teamsystem.com/docs/default/component/ts-wallet"
   },
@@ -199,9 +171,7 @@
     "name": "ts-metering-privacy-broker-listener",
     "title": "ts-metering-privacy-broker-listener",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "1a1612ce-7973-4128-8b0d-6445b8c97daa",
     "link": "https://development.teamsystem.com/docs/default/component/ts-metering-privacy-broker-listener"
   },
@@ -217,11 +187,7 @@
     "name": "enrollment",
     "title": "Nuovo censimento",
     "description": "Processo di censimento dei Client",
-    "tags": [
-      "enrollment",
-      "censimento",
-      "client"
-    ],
+    "tags": ["enrollment", "censimento", "client"],
     "uid": "1a82518e-4fa0-4e4a-aa36-e7965c0e1465",
     "link": "https://development.teamsystem.com/docs/default/component/enrollment"
   },
@@ -229,9 +195,7 @@
     "name": "metering-archiver-listener",
     "title": "metering-archiver-listener",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "1b5ab9e0-0310-43a9-9e4a-e1656b48a9cd",
     "link": "https://development.teamsystem.com/docs/default/component/metering-archiver-listener"
   },
@@ -239,9 +203,7 @@
     "name": "consumptions-dashboard-backend",
     "title": "consumptions-dashboard-backend",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "1c29c9d4-b7d7-44a1-b72e-1fc71afbf96e",
     "link": "https://development.teamsystem.com/docs/default/component/consumptions-dashboard-backend"
   },
@@ -249,11 +211,7 @@
     "name": "ai-services",
     "title": "AI Services",
     "description": "Gateway to collect all AI Services",
-    "tags": [
-      "ai",
-      "ml",
-      "python"
-    ],
+    "tags": ["ai", "ml", "python"],
     "uid": "1e9014fe-d1ab-4630-a5b2-95b0ca3e267e",
     "link": "https://development.teamsystem.com/docs/default/component/ai-services"
   },
@@ -261,11 +219,7 @@
     "name": "m3-consumptions-relay",
     "title": "Consumptions Relay",
     "description": "Retrieve events from consumption-event-store and sent to broker message",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "1eb9a48f-7170-46d8-9eb2-8d3564c6d7dc",
     "link": "https://development.teamsystem.com/docs/default/component/m3-consumptions-relay"
   },
@@ -273,12 +227,7 @@
     "name": "business-intelligence-cons",
     "title": "Business Intelligence Construction",
     "description": "Progetto contenente Construction del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "1f11e030-a6c3-4d4b-a9ca-21713180028b",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cons"
   },
@@ -286,10 +235,7 @@
     "name": "charts-of-accounts",
     "title": "Chart Of Accounts",
     "description": "Service for chart-of-accounts domain. Streamline registry lifecycle, organizing and managing financial accounts for seamless accounting processes and accurate reporting.",
-    "tags": [
-      "kotlin",
-      "micronaut"
-    ],
+    "tags": ["kotlin", "micronaut"],
     "uid": "211dc43a-291a-4865-abfe-962ed7fac6e6",
     "link": "https://development.teamsystem.com/docs/default/component/charts-of-accounts"
   },
@@ -297,12 +243,7 @@
     "name": "ts-reservation",
     "title": "Reservation",
     "description": "This service allows customers to handle table reservations.",
-    "tags": [
-      "graphql",
-      "typescript",
-      "aws",
-      "reservation"
-    ],
+    "tags": ["graphql", "typescript", "aws", "reservation"],
     "uid": "22a42a07-7b99-4279-9584-ad5eb4c72dc5",
     "link": "https://development.teamsystem.com/docs/default/component/ts-reservation"
   },
@@ -310,13 +251,7 @@
     "name": "ts-hr-app-android",
     "title": "TeamSystem HR App Android",
     "description": "Ts Hr app Android",
-    "tags": [
-      "kotlin",
-      "android",
-      "huawei",
-      "harmonyos",
-      "java"
-    ],
+    "tags": ["kotlin", "android", "huawei", "harmonyos", "java"],
     "uid": "22f52e6d-a354-4ff7-b08c-97a91b52485e",
     "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-android"
   },
@@ -324,9 +259,7 @@
     "name": "metering-archiver-write",
     "title": "metering-archiver-write",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "23149fd1-b6a6-4950-87ff-e6c178677055",
     "link": "https://development.teamsystem.com/docs/default/component/metering-archiver-write"
   },
@@ -334,11 +267,7 @@
     "name": "business-intelligence-cloud-app-structure",
     "title": "Business Intelligence Cloud",
     "description": "Documentazione relativa alla struttura standard di un'app di qlik sense per BI in cloud",
-    "tags": [
-      "qlik-sense",
-      "bi-cloud",
-      "tsbi"
-    ],
+    "tags": ["qlik-sense", "bi-cloud", "tsbi"],
     "uid": "237983d2-f8f2-4e97-9298-6e565a5304c2",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cloud-app-structure"
   },
@@ -346,10 +275,7 @@
     "name": "ts-hr-app-redis",
     "title": "TeamSystem HR App Redis",
     "description": "Ts Hr app Redis",
-    "tags": [
-      "docker",
-      "redis"
-    ],
+    "tags": ["docker", "redis"],
     "uid": "2383544a-0a44-43c0-a500-1c78739401df",
     "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-redis"
   },
@@ -365,11 +291,7 @@
     "name": "m3-subscriptions-cron",
     "title": "Subscriptions Cron",
     "description": "Executes specific flow using Cron scheduler.",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "23d56237-86ac-4b94-b2c5-29ff725daec9",
     "link": "https://development.teamsystem.com/docs/default/component/m3-subscriptions-cron"
   },
@@ -377,12 +299,7 @@
     "name": "business-intelligence-cocl",
     "title": "Business Intelligence Consegne Clienti",
     "description": "Progetto contenente Consegne Clienti del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "251e1d26-a3dd-4326-9da4-3adc8da55dc4",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cocl"
   },
@@ -390,9 +307,7 @@
     "name": "certified-contacts-read",
     "title": "certified-contacts-read",
     "description": "Read-only access to certified contacts",
-    "tags": [
-      "certified-contacts"
-    ],
+    "tags": ["certified-contacts"],
     "uid": "254ddc6c-f4d2-4b03-a6d0-f041c790b16e",
     "link": "https://development.teamsystem.com/docs/default/component/certified-contacts-read"
   },
@@ -400,9 +315,7 @@
     "name": "workspace-service-subscription-api",
     "title": "workspace-service-subscription-api",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "25d08b42-5640-418a-aa5a-a0c502db076b",
     "link": "https://development.teamsystem.com/docs/default/component/workspace-service-subscription-api"
   },
@@ -418,11 +331,7 @@
     "name": "standard-codes-mongodb-service",
     "title": "Standard Codes MongoDB Service",
     "description": "MongoDB microservice to access to all entities available in Standard Codes",
-    "tags": [
-      "java",
-      "spring-boot",
-      "mongodb"
-    ],
+    "tags": ["java", "spring-boot", "mongodb"],
     "uid": "2a0efd37-cb0f-4678-aeed-24996cc8aa0c",
     "link": "https://development.teamsystem.com/docs/default/component/standard-codes-mongodb-service"
   },
@@ -438,12 +347,7 @@
     "name": "business-intelligence-prod",
     "title": "Business Intelligence Produzione",
     "description": "Progetto contenente Produzione del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "2c732293-f09f-40de-add0-51bcfc71f64e",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-prod"
   },
@@ -475,12 +379,7 @@
     "name": "business-intelligence-coan",
     "title": "Business Intelligence Contabilità Analitica",
     "description": "Progetto contenente Contabilità Analitica del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "2d0d2386-4565-45b7-bc12-5af7fa058b44",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-coan"
   },
@@ -520,10 +419,7 @@
     "name": "framework-ts-studio",
     "title": "Framework TS Studio",
     "description": "Framework TS Studio",
-    "tags": [
-      "tsx",
-      "framework-ts-studio"
-    ],
+    "tags": ["tsx", "framework-ts-studio"],
     "uid": "3059db3e-434b-47b8-b70e-6239242a566a",
     "link": "https://development.teamsystem.com/docs/default/component/framework-ts-studio"
   },
@@ -531,9 +427,7 @@
     "name": "StrongAuthMsg-dispatcher",
     "title": "StrongAuth-Messaging-dispatcher",
     "description": "Commect to external SMS providers to dispatch messages.",
-    "tags": [
-      "strongauthmsg"
-    ],
+    "tags": ["strongauthmsg"],
     "uid": "309ff5b3-a66a-4b73-ac81-881c458a7ea9",
     "link": "https://development.teamsystem.com/docs/default/component/StrongAuthMsg-dispatcher"
   },
@@ -573,10 +467,7 @@
     "name": "analytics-admin-console",
     "title": "Analytics Admin Web Application",
     "description": "Analytics Admin Web Application - manages companies, users, KPIs catalog & permissions",
-    "tags": [
-      "react",
-      "desktop"
-    ],
+    "tags": ["react", "desktop"],
     "uid": "321672bc-daac-42d6-b4eb-6c42d6cd488f",
     "link": "https://development.teamsystem.com/docs/default/component/analytics-admin-console"
   },
@@ -592,12 +483,7 @@
     "name": "sendtime-recommender",
     "title": "MailUp - sendtime-recommender",
     "description": "Template project",
-    "tags": [
-      "ai",
-      "ml",
-      "python",
-      "tensorflow"
-    ],
+    "tags": ["ai", "ml", "python", "tensorflow"],
     "uid": "32ca74ca-7206-489a-8e2f-0044c48e8a38",
     "link": "https://development.teamsystem.com/docs/default/component/sendtime-recommender"
   },
@@ -605,9 +491,7 @@
     "name": "ts-met-unit-emitter",
     "title": "ts-met-unit-emitter",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "336644af-1dfd-4bd1-b0a7-7821760ff6f6",
     "link": "https://development.teamsystem.com/docs/default/component/ts-met-unit-emitter"
   },
@@ -631,12 +515,7 @@
     "name": "business-intelligence-ciat",
     "title": "Business Intelligence Ciclo Attivo",
     "description": "Progetto contenente Ciclo Attivo del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "364216f1-e608-4063-b5a2-b51411ec2229",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-ciat"
   },
@@ -644,12 +523,7 @@
     "name": "business-intelligence-cofo-fsh",
     "title": "Business Intelligence Consegne Fornitori Fashion",
     "description": "Progetto contenente  Consegne Fornitori Fashion del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "36fc50a4-bb17-4618-98e1-45000cd315a0",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cofo-fsh"
   },
@@ -665,9 +539,7 @@
     "name": "ts-metering-bo-interface",
     "title": "ts-metering-bo-interface",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "387faf13-9112-4fd3-9a43-218d81ea4d3a",
     "link": "https://development.teamsystem.com/docs/default/component/ts-metering-bo-interface"
   },
@@ -675,11 +547,7 @@
     "name": "vat-exemption-code-classificator",
     "title": "Vat Exemption Code Classificator",
     "description": "Classifier trained to classify VAT exemption codes",
-    "tags": [
-      "ai",
-      "ml",
-      "python"
-    ],
+    "tags": ["ai", "ml", "python"],
     "uid": "396df416-442e-4e8e-a7af-b57460eb1198",
     "link": "https://development.teamsystem.com/docs/default/component/vat-exemption-code-classificator"
   },
@@ -695,10 +563,7 @@
     "name": "e-receipt",
     "title": "Digital Receipt",
     "description": "This is the MF1 (Modulo fiscale 1 - Fiscal module 1) of E-Receipt solution.",
-    "tags": [
-      "e-receipt",
-      "mf1"
-    ],
+    "tags": ["e-receipt", "mf1"],
     "uid": "3c5bd0d0-c4de-4079-bfed-c06a691625b4",
     "link": "https://development.teamsystem.com/docs/default/component/e-receipt"
   },
@@ -714,12 +579,7 @@
     "name": "link-shortener",
     "title": "Link Shortener Service",
     "description": "This service allows you to shorten links.",
-    "tags": [
-      "rest",
-      "typescript",
-      "aws",
-      "link-shortener"
-    ],
+    "tags": ["rest", "typescript", "aws", "link-shortener"],
     "uid": "3e83add2-9dbf-47d1-b231-022173182eb5",
     "link": "https://development.teamsystem.com/docs/default/component/link-shortener"
   },
@@ -727,12 +587,7 @@
     "name": "business-intelligence-cong",
     "title": "Business Intelligence Controlling",
     "description": "Progetto contenente Controlling del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "3ea115e2-1925-47b2-b80e-9f5b2a3d23e0",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cong"
   },
@@ -748,11 +603,7 @@
     "name": "ts-bil-frontend",
     "title": "TeamSystem Bilancio Saas FrontEnd",
     "description": "Ts Bilancio Saas FrontEnd",
-    "tags": [
-      "javascript",
-      "typescript",
-      "angular"
-    ],
+    "tags": ["javascript", "typescript", "angular"],
     "uid": "406724bd-4abf-4123-86cf-d2d93d9edec2",
     "link": "https://development.teamsystem.com/docs/default/component/ts-bil-frontend"
   },
@@ -776,12 +627,7 @@
     "name": "business-intelligence-hub",
     "title": "Business Intelligence Hub",
     "description": "Progetto contenente l'hub del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "42715f7a-d43b-425c-824a-2eccfcb635e0",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-hub"
   },
@@ -789,12 +635,7 @@
     "name": "business-intelligence-template-builder",
     "title": "Business Intelligence Template Builder",
     "description": "Progetto contenente il template builder del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "43121638-744b-4c7d-b203-e696b8cfb4b6",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-template-builder"
   },
@@ -810,11 +651,7 @@
     "name": "ade-proxy",
     "title": "AdE Forward Proxy",
     "description": "AdE forward proxy",
-    "tags": [
-      "terraform",
-      "nginx",
-      "load-balancer"
-    ],
+    "tags": ["terraform", "nginx", "load-balancer"],
     "uid": "44265a1d-b2dc-4028-a72a-564275eb2e2c",
     "link": "https://development.teamsystem.com/docs/default/component/ade-proxy"
   },
@@ -822,11 +659,7 @@
     "name": "m3-subscriptions-consumptions-aggregate",
     "title": "Subscriptions Consumptions Aggregate",
     "description": "Subscriptions Consumptions Aggregate for M3 Subscription Manager",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "44d5051b-a18e-4ced-85cd-9753490bb5cc",
     "link": "https://development.teamsystem.com/docs/default/component/m3-subscriptions-consumptions-aggregate"
   },
@@ -834,10 +667,7 @@
     "name": "policy-catalog",
     "title": "Policy Catalog",
     "description": "Catalog of policies",
-    "tags": [
-      "policy-catalog",
-      "policy-manager"
-    ],
+    "tags": ["policy-catalog", "policy-manager"],
     "uid": "44ea35f8-4ece-4345-9b16-501069d11c75",
     "link": "https://development.teamsystem.com/docs/default/component/policy-catalog"
   },
@@ -853,9 +683,7 @@
     "name": "agyo-subscription-api",
     "title": "agyo-subscription-api",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "45205206-e1a1-40b0-8b19-d74e0eab83ef",
     "link": "https://development.teamsystem.com/docs/default/component/agyo-subscription-api"
   },
@@ -871,9 +699,7 @@
     "name": "metering-services-activator",
     "title": "metering-services-activator",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "4aa0c98c-c07e-4c60-a520-c8f13ad36468",
     "link": "https://development.teamsystem.com/docs/default/component/metering-services-activator"
   },
@@ -881,9 +707,7 @@
     "name": "ts-metering-usage-read",
     "title": "ts-metering-usage-read",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "4b4b2b3a-1f20-4b65-a2be-ffd94da18cca",
     "link": "https://development.teamsystem.com/docs/default/component/ts-metering-usage-read"
   },
@@ -891,10 +715,7 @@
     "name": "usage-package-listner-fn",
     "title": "usage-package-listner-fn",
     "description": "",
-    "tags": [
-      "iso",
-      "function"
-    ],
+    "tags": ["iso", "function"],
     "uid": "4b9698c8-6119-4e68-a8dd-63cb6942ef30",
     "link": "https://development.teamsystem.com/docs/default/component/usage-package-listner-fn"
   },
@@ -902,9 +723,7 @@
     "name": "metering-m3-invoker",
     "title": "Metering M3 Adapter",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "4be92d2b-b9c1-4ea2-9803-b210c7aa0453",
     "link": "https://development.teamsystem.com/docs/default/component/metering-m3-invoker"
   },
@@ -912,11 +731,7 @@
     "name": "m3-price-list-read",
     "title": "Price List Read",
     "description": "Price List Read API for M3 Subscription Manager",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "4dc1fb1c-6363-48e9-aeb0-2db579e3e6c3",
     "link": "https://development.teamsystem.com/docs/default/component/m3-price-list-read"
   },
@@ -924,11 +739,7 @@
     "name": "m3-bucket-read",
     "title": "Bucket Read",
     "description": "Bucket Read API for M3 Smartmeter",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "507c85ba-d658-4724-9cba-d64d9c784c2f",
     "link": "https://development.teamsystem.com/docs/default/component/m3-bucket-read"
   },
@@ -936,9 +747,7 @@
     "name": "StrongAuthMsg-emergency-manager",
     "title": "StrongAuth-Messaging-emergency-manager",
     "description": "Check the sanity of the providers and manages fallback rerouting and recovering.",
-    "tags": [
-      "strongauthmsg"
-    ],
+    "tags": ["strongauthmsg"],
     "uid": "515052fa-c024-451f-b244-2aaeaebfdf4d",
     "link": "https://development.teamsystem.com/docs/default/component/StrongAuthMsg-emergency-manager"
   },
@@ -946,10 +755,7 @@
     "name": "policy-catalog-updater",
     "title": "Policy Catalog Updater",
     "description": "Component responsible for updating policy catalog",
-    "tags": [
-      "policy-catalog",
-      "policy-manager"
-    ],
+    "tags": ["policy-catalog", "policy-manager"],
     "uid": "5169b884-4685-41dd-8663-e535522c9673",
     "link": "https://development.teamsystem.com/docs/default/component/policy-catalog-updater"
   },
@@ -965,9 +771,7 @@
     "name": "ts-metering-lynfa-import-pn",
     "title": "ts-metering-lynfa-import-pn",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "532341a9-1df2-4af7-b827-1dbe9ea0ba31",
     "link": "https://development.teamsystem.com/docs/default/component/ts-metering-lynfa-import-pn"
   },
@@ -975,14 +779,7 @@
     "name": "ts-hr-app-utils",
     "title": "TeamSystem HR App Utils",
     "description": "Ts Hr app backend utils package",
-    "tags": [
-      "typescript",
-      "nodejs",
-      "mongodb",
-      "yarn",
-      "fastify",
-      "nexus"
-    ],
+    "tags": ["typescript", "nodejs", "mongodb", "yarn", "fastify", "nexus"],
     "uid": "53966203-fec6-474c-b896-a1620fffdc61",
     "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-utils"
   },
@@ -990,11 +787,7 @@
     "name": "ai-platform-core",
     "title": "AI Platform Core",
     "description": "Gateway to collect all AI Platform services",
-    "tags": [
-      "ai",
-      "ml",
-      "python"
-    ],
+    "tags": ["ai", "ml", "python"],
     "uid": "5466dc9c-772c-4e6b-ad74-af6c96a70690",
     "link": "https://development.teamsystem.com/docs/default/component/ai-platform-core"
   },
@@ -1010,10 +803,7 @@
     "name": "cashflow-app",
     "title": "Cashflow App",
     "description": "It contains the Cashflow App.",
-    "tags": [
-      "fintech",
-      "cashflow"
-    ],
+    "tags": ["fintech", "cashflow"],
     "uid": "561a9ec3-a558-4f5d-b222-7937e66767a1",
     "link": "https://development.teamsystem.com/docs/default/component/cashflow-app"
   },
@@ -1029,12 +819,7 @@
     "name": "account-recommender",
     "title": "Account Recommender",
     "description": "Deep Neural Network trained to recommend top-k accounts for each invoice line",
-    "tags": [
-      "ai",
-      "ml",
-      "python",
-      "tensorflow"
-    ],
+    "tags": ["ai", "ml", "python", "tensorflow"],
     "uid": "573763cc-9064-4444-9d0c-7e7de19cf7cf",
     "link": "https://development.teamsystem.com/docs/default/component/account-recommender"
   },
@@ -1042,12 +827,7 @@
     "name": "tse-webapi-doc",
     "title": "Web Api Service Framework AlyCE",
     "description": "This is Web Api Service",
-    "tags": [
-      "swagger",
-      "api",
-      "webapi",
-      "service"
-    ],
+    "tags": ["swagger", "api", "webapi", "service"],
     "uid": "57b4edaf-b2da-44da-a8a0-4dc589e74c38",
     "link": "https://development.teamsystem.com/docs/default/component/tse-webapi-doc"
   },
@@ -1087,11 +867,7 @@
     "name": "one-click-analysis-saas-backend",
     "title": "One Click Analysis SaaS Backend",
     "description": "Project containing One Click Analysis SaaS Backend.",
-    "tags": [
-      "one-click-analysis",
-      "nodejs",
-      "express"
-    ],
+    "tags": ["one-click-analysis", "nodejs", "express"],
     "uid": "5cf13d4f-897d-4c3b-a7ef-0831047ef36c",
     "link": "https://development.teamsystem.com/docs/default/component/one-click-analysis-saas-backend"
   },
@@ -1107,11 +883,7 @@
     "name": "ai-config",
     "title": "AI Config",
     "description": "API to verify status of AI subscription",
-    "tags": [
-      "ai",
-      "ml",
-      "python"
-    ],
+    "tags": ["ai", "ml", "python"],
     "uid": "5eb4365a-683c-4e20-a414-4856ae885c50",
     "link": "https://development.teamsystem.com/docs/default/component/ai-config"
   },
@@ -1127,9 +899,7 @@
     "name": "ts-id",
     "title": "TeamSystem-ID",
     "description": "TeamSystem-ID",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "603f5892-e9fc-46d3-8ac0-b19a2ba2369b",
     "link": "https://development.teamsystem.com/docs/default/component/ts-id"
   },
@@ -1137,12 +907,7 @@
     "name": "business-intelligence-cipa",
     "title": "Business Intelligence Ciclo Passivo",
     "description": "Progetto contenente Ciclo Passivo del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "605a30a4-039f-4244-99e1-5cb587a5bb66",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cipa"
   },
@@ -1158,11 +923,7 @@
     "name": "ts-hr-app-infra",
     "title": "TeamSystem HR App Infra",
     "description": "TS HR App Infra",
-    "tags": [
-      "terraform",
-      "aks",
-      "azure"
-    ],
+    "tags": ["terraform", "aks", "azure"],
     "uid": "63393aed-70d2-41c8-af29-99928af2d098",
     "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-infra"
   },
@@ -1170,10 +931,7 @@
     "name": "business-intelligence-saas-frontend",
     "title": "Business Intelligence SaaS Frontend",
     "description": "Project containing Business Intelligence SaaS Frontend.",
-    "tags": [
-      "business-intelligence",
-      "react"
-    ],
+    "tags": ["business-intelligence", "react"],
     "uid": "63dd71e9-7892-43c4-ba4f-fa2083a33aab",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-saas-frontend"
   },
@@ -1205,11 +963,7 @@
     "name": "m3-consumptions-producer",
     "title": "Consumptions Producer",
     "description": "Producer service for all events related to consumptions in M3 Smartmeter.",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "69774d45-5b65-4e66-a690-af677bfa94f6",
     "link": "https://development.teamsystem.com/docs/default/component/m3-consumptions-producer"
   },
@@ -1217,10 +971,7 @@
     "name": "ts-hr-app-client-backoffice",
     "title": "TeamSystem HR App Client Backoffice",
     "description": "Ts Hr app client backoffice",
-    "tags": [
-      "javascript",
-      "react"
-    ],
+    "tags": ["javascript", "react"],
     "uid": "69b89a9c-662e-4dcf-abc7-1cba32b37b2d",
     "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-client-backoffice"
   },
@@ -1236,12 +987,7 @@
     "name": "business-intelligence-cocl-fsh",
     "title": "Business Intelligence Consegne Clienti Fashion",
     "description": "Progetto contenente Consegne Clienti Fashion del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "6c46f246-93cb-40b7-9520-3dbcaa86d053",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cocl-fsh"
   },
@@ -1257,9 +1003,7 @@
     "name": "metering-consumption-write",
     "title": "metering-consumption-write",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "6db8bc24-1f8d-4773-9d42-e0ef99bf598c",
     "link": "https://development.teamsystem.com/docs/default/component/metering-consumption-write"
   },
@@ -1267,12 +1011,7 @@
     "name": "business-intelligence-ffven",
     "title": "Business Intelligence Flussi Forniture/Vendite",
     "description": "Progetto contenente Flussi Forniture/Vendite del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "6ddec3e8-009c-4b7f-b965-ee4ca63d719b",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-ffven"
   },
@@ -1280,12 +1019,7 @@
     "name": "business-intelligence-builder",
     "title": "Business Intelligence Builder",
     "description": "Progetto contenente il builder del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "6f612584-e9d9-41b0-83b4-14c9456d5785",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-builder"
   },
@@ -1293,9 +1027,7 @@
     "name": "ts-realtime-usage-collector",
     "title": "ts-realtime-usage-collector",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "6f6fa38c-f6e2-4a0a-9064-cb1abce6f148",
     "link": "https://development.teamsystem.com/docs/default/component/ts-realtime-usage-collector"
   },
@@ -1303,9 +1035,7 @@
     "name": "ts-metering-read",
     "title": "ts-metering-read",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "703f3dff-b3da-4cde-9b56-e0fd63f87e95",
     "link": "https://development.teamsystem.com/docs/default/component/ts-metering-read"
   },
@@ -1313,9 +1043,7 @@
     "name": "ts-bil-stress-test",
     "title": "TeamSystem Bilancio Saas Stress Test",
     "description": "Ts Bilancio Saas Stress Test",
-    "tags": [
-      "k6"
-    ],
+    "tags": ["k6"],
     "uid": "707b47d3-8e19-468b-95ad-6ece64170873",
     "link": "https://development.teamsystem.com/docs/default/component/ts-bil-stress-test"
   },
@@ -1339,12 +1067,7 @@
     "name": "business-intelligence-cipa-fsh",
     "title": "Business Intelligence Ciclo Passivo Fashion",
     "description": "Progetto contenente  Ciclo Passivo Fashion del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "75631af0-6451-4803-bfb1-762639e89e2b",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cipa-fsh"
   },
@@ -1352,11 +1075,7 @@
     "name": "generative-ai-evaluate",
     "title": "Generative AI Evaluate",
     "description": "Original repo for the Generative AI Evaluate service",
-    "tags": [
-      "ai",
-      "ml",
-      "python"
-    ],
+    "tags": ["ai", "ml", "python"],
     "uid": "75bc75f9-d0dd-452f-ba0e-ec87d28cf821",
     "link": "https://development.teamsystem.com/docs/default/component/generative-ai-evaluate"
   },
@@ -1364,9 +1083,7 @@
     "name": "StrongAuthMsg-results-webhook",
     "title": "StrongAuth-Messaging-results-webhook",
     "description": "Exposes webhook to SMS providers in order to receive and store SMS delivery informations.",
-    "tags": [
-      "strongauthmsg"
-    ],
+    "tags": ["strongauthmsg"],
     "uid": "7795cbb5-b6fa-4c18-ad56-3aa88d9d3355",
     "link": "https://development.teamsystem.com/docs/default/component/StrongAuthMsg-results-webhook"
   },
@@ -1374,12 +1091,7 @@
     "name": "business-intelligence-dataconnections",
     "title": "Business Intelligence Data Connections",
     "description": "Progetto contenente la connessione alla fonte dati del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "78fbe86c-cfe9-4f0f-aaf8-df8eae6477ef",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-dataconnections"
   },
@@ -1411,13 +1123,7 @@
     "name": "ts-hr-app-backoffice",
     "title": "TeamSystem HR App Backoffice",
     "description": "Ts Hr app backend for Backoffice",
-    "tags": [
-      "typescript",
-      "nodejs",
-      "mongodb",
-      "yarn",
-      "express"
-    ],
+    "tags": ["typescript", "nodejs", "mongodb", "yarn", "express"],
     "uid": "7d68fbde-a1d9-41cd-9850-290b638bdf15",
     "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-backoffice"
   },
@@ -1425,10 +1131,7 @@
     "name": "tax-compliance",
     "title": "",
     "description": "Aggregates all the events related to fulfilments by linking the taxpayer identified in each event to a fulfilment entity. Events can be generated by any interested service through an integration with Hermes.",
-    "tags": [
-      "nodejs",
-      "typescript"
-    ],
+    "tags": ["nodejs", "typescript"],
     "uid": "7d731ccd-722d-4a03-aced-9919c067c503",
     "link": "https://development.teamsystem.com/docs/default/component/tax-compliance"
   },
@@ -1436,10 +1139,7 @@
     "name": "ts-experience",
     "title": "TeamSystem Experience",
     "description": "TeamSystem Experience",
-    "tags": [
-      "tsx",
-      "tsexperience"
-    ],
+    "tags": ["tsx", "tsexperience"],
     "uid": "7dee11b8-cdfd-4bcf-ba08-14a06146f014",
     "link": "https://development.teamsystem.com/docs/default/component/ts-experience"
   },
@@ -1455,9 +1155,7 @@
     "name": "ts-services-subscription-webhook-invoker",
     "title": "ts-services-subscription-webhook-invoker",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "8199cdee-be84-41fc-b57a-93b0f90a2834",
     "link": "https://development.teamsystem.com/docs/default/component/ts-services-subscription-webhook-invoker"
   },
@@ -1481,11 +1179,7 @@
     "name": "m3-price-list-worker",
     "title": "Price List Worker",
     "description": "Price List Worker for M3 Subscription Manager",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "86a5bcb1-6813-45fd-b73c-ac0ef26fbc47",
     "link": "https://development.teamsystem.com/docs/default/component/m3-price-list-worker"
   },
@@ -1493,11 +1187,7 @@
     "name": "cobol-setup-ts-studio",
     "title": "Cobol Dev Setup",
     "description": "This project guides and automates the setup of a COBOL development environment for TS Studio",
-    "tags": [
-      "setup",
-      "ts-studio",
-      "cobol"
-    ],
+    "tags": ["setup", "ts-studio", "cobol"],
     "uid": "86b67338-ed4a-4e4a-938a-c48f6edf780f",
     "link": "https://development.teamsystem.com/docs/default/component/cobol-setup-ts-studio"
   },
@@ -1505,9 +1195,7 @@
     "name": "ts-metering-consumptions-archiver",
     "title": "ts-metering-consumptions-archiver",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "875983d2-2466-462b-9ad5-b05aee3ca552",
     "link": "https://development.teamsystem.com/docs/default/component/ts-metering-consumptions-archiver"
   },
@@ -1515,13 +1203,7 @@
     "name": "ai-load-testing",
     "title": "AI Load Testing",
     "description": "K6 Test for ai endpoint",
-    "tags": [
-      "ai",
-      "k6",
-      "test",
-      "js",
-      "go"
-    ],
+    "tags": ["ai", "k6", "test", "js", "go"],
     "uid": "87f03a36-97b7-42cd-aeff-e0c819cd2a1f",
     "link": "https://development.teamsystem.com/docs/default/component/ai-load-testing"
   },
@@ -1529,11 +1211,7 @@
     "name": "business-intelligence-qvf-versioning",
     "title": "Business Intelligence QVF versioning",
     "description": "Applicazione web per gestire il versionamento dei qvf qlik",
-    "tags": [
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["typescript", "html", "css"],
     "uid": "885b8cb5-4259-420d-8718-99f9abd6063b",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-qvf-versioning"
   },
@@ -1565,10 +1243,7 @@
     "name": "utilities-service",
     "title": "Utilities Service",
     "description": "Utilities Services, contain endpoints to access to common functions used in all systems, components & generally in software",
-    "tags": [
-      "java",
-      "spring-boot"
-    ],
+    "tags": ["java", "spring-boot"],
     "uid": "8d6599fa-bc06-4f88-b249-eafbe7d96d5e",
     "link": "https://development.teamsystem.com/docs/default/component/utilities-service"
   },
@@ -1592,13 +1267,7 @@
     "name": "ts-hr-app-read",
     "title": "TeamSystem HR App Read",
     "description": "Ts Hr app backend for apps mobile",
-    "tags": [
-      "typescript",
-      "nodejs",
-      "mongodb",
-      "yarn",
-      "fastify"
-    ],
+    "tags": ["typescript", "nodejs", "mongodb", "yarn", "fastify"],
     "uid": "918e22de-aef1-41e9-b778-64493fdb2d58",
     "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-read"
   },
@@ -1606,12 +1275,7 @@
     "name": "business-intelligence-maga",
     "title": "Business Intelligence Magazzino",
     "description": "Progetto contenente Magazzino del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "924a48af-eeeb-486c-b0fb-6e02f6a7f6d4",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-maga"
   },
@@ -1627,10 +1291,7 @@
     "name": "metering-downgrade-activator-fn",
     "title": "metering-downgrade-activator-fn",
     "description": "",
-    "tags": [
-      "iso",
-      "function"
-    ],
+    "tags": ["iso", "function"],
     "uid": "9300c779-5b05-4427-850d-45e10d89f089",
     "link": "https://development.teamsystem.com/docs/default/component/metering-downgrade-activator-fn"
   },
@@ -1654,10 +1315,7 @@
     "name": "ts-hr-app-support-backoffice",
     "title": "TeamSystem HR App Support Backoffice",
     "description": "Ts Hr app support backoffice",
-    "tags": [
-      "javascript",
-      "react"
-    ],
+    "tags": ["javascript", "react"],
     "uid": "94c9f680-6432-4306-8e95-7692eefb4d96",
     "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-support-backoffice"
   },
@@ -1673,12 +1331,7 @@
     "name": "business-intelligence-cofo",
     "title": "Business Intelligence Consegne Fornitori",
     "description": "Progetto contenente Consegne Fornitori del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "9664724e-30c4-4917-ab02-c7ad1cd7f715",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cofo"
   },
@@ -1686,12 +1339,7 @@
     "name": "business-intelligence-cont",
     "title": "Business Intelligence Contabilità",
     "description": "Progetto contenente Contabilità del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "97446b3d-0c0f-4de1-8529-27135a7958c2",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-cont"
   },
@@ -1699,9 +1347,7 @@
     "name": "business-intelligence-spchr",
     "title": "Business Intelligence SPCHR",
     "description": "Progetto contenente l'installazione e le configurazioni lato Business Intelligence SPCHR",
-    "tags": [
-      "powershell"
-    ],
+    "tags": ["powershell"],
     "uid": "987043cc-8701-4ec7-b524-3a0d1b18fa6d",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-spchr"
   },
@@ -1709,11 +1355,7 @@
     "name": "m3-bucket-worker",
     "title": "Bucket worker",
     "description": "worker service for all events related to bucket management in M3 Smartmeter",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "9c2b8287-81df-4964-93e9-e05a6799f9cf",
     "link": "https://development.teamsystem.com/docs/default/component/m3-bucket-worker"
   },
@@ -1729,9 +1371,7 @@
     "name": "certified-contacts-updater",
     "title": "Certified Contacts Updater",
     "description": "Component responsible for updating certified contacts",
-    "tags": [
-      "certified-contacts"
-    ],
+    "tags": ["certified-contacts"],
     "uid": "a1ab7a6f-96c0-478a-8503-5d436ea7b285",
     "link": "https://development.teamsystem.com/docs/default/component/certified-contacts-updater"
   },
@@ -1747,10 +1387,7 @@
     "name": "one-click-analysis-saas-frontend",
     "title": "One Click Analysis SaaS Frontend",
     "description": "Project containing One Click Analysis SaaS Frontend.",
-    "tags": [
-      "one-click-analysis",
-      "react"
-    ],
+    "tags": ["one-click-analysis", "react"],
     "uid": "a4fa2ad5-83de-4749-a32f-5f0acef57f32",
     "link": "https://development.teamsystem.com/docs/default/component/one-click-analysis-saas-frontend"
   },
@@ -1766,9 +1403,7 @@
     "name": "tsec-business-intelligence-saas-infrastucture",
     "title": "TSEC Business Intelligence SaaS Infrastucture",
     "description": "Progetto contenente l'ambiente Terraform di inizializzazione e gestione di tutta l'infrastruttura",
-    "tags": [
-      "terraform"
-    ],
+    "tags": ["terraform"],
     "uid": "a6fab248-386c-4e5d-9a3b-6cea269f4996",
     "link": "https://development.teamsystem.com/docs/default/component/tsec-business-intelligence-saas-infrastucture"
   },
@@ -1776,11 +1411,7 @@
     "name": "m3-subscription-worker",
     "title": "Subscription Worker",
     "description": "Subscription Worker for M3 Subscription Manager",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "a77b09d7-171a-4fd7-b08b-fe5150616389",
     "link": "https://development.teamsystem.com/docs/default/component/m3-subscription-worker"
   },
@@ -1796,13 +1427,7 @@
     "name": "ts-hr-app-write",
     "title": "TeamSystem HR App Write",
     "description": "Ts Hr app backend for synch data",
-    "tags": [
-      "typescript",
-      "nodejs",
-      "mongodb",
-      "yarn",
-      "fastify"
-    ],
+    "tags": ["typescript", "nodejs", "mongodb", "yarn", "fastify"],
     "uid": "a830d734-4c6b-456c-b769-d680ee43e9a4",
     "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-write"
   },
@@ -1810,11 +1435,7 @@
     "name": "m3-service-catalog-write",
     "title": "Service Catalog Write",
     "description": "Service Catalog Write API for M3 Service Manager",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "aae58fc3-25f6-4653-b62a-9b2464d27afd",
     "link": "https://development.teamsystem.com/docs/default/component/m3-service-catalog-write"
   },
@@ -1822,10 +1443,7 @@
     "name": "tsec-business-intelligence-saas-backend",
     "title": "TSEC Business Intelligence SaaS Backend",
     "description": "Progetto contenente il backend del progetto TSEC Business Intelligence SaaS",
-    "tags": [
-      "nodejs16",
-      "express"
-    ],
+    "tags": ["nodejs16", "express"],
     "uid": "b0bde5b0-cd7c-46d8-a86d-7785a495c77f",
     "link": "https://development.teamsystem.com/docs/default/component/tsec-business-intelligence-saas-backend"
   },
@@ -1833,9 +1451,7 @@
     "name": "ts-service-subscription-api",
     "title": "ts-service-subscription-api",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "b1717247-b5be-498e-ad55-02c3c885140f",
     "link": "https://development.teamsystem.com/docs/default/component/ts-service-subscription-api"
   },
@@ -1843,11 +1459,7 @@
     "name": "business-intelligence-saas-backend",
     "title": "Business Intelligence SaaS Backend",
     "description": "Project containing Business Intelligence SaaS Backend.",
-    "tags": [
-      "business-intelligence",
-      "nodejs",
-      "express"
-    ],
+    "tags": ["business-intelligence", "nodejs", "express"],
     "uid": "b19f40b8-1213-4156-8c23-f392f4a103ba",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-saas-backend"
   },
@@ -1855,9 +1467,7 @@
     "name": "metering-package-read",
     "title": "metering-package-read",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "b73bc8f6-f463-43c8-a3ca-c3f61eb12f8f",
     "link": "https://development.teamsystem.com/docs/default/component/metering-package-read"
   },
@@ -1881,9 +1491,7 @@
     "name": "b2b-services-subscription",
     "title": "b2b-services-subscription",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "bbfa86f9-e26b-4ed8-b23f-feb537c37309",
     "link": "https://development.teamsystem.com/docs/default/component/b2b-services-subscription"
   },
@@ -1891,12 +1499,7 @@
     "name": "business-intelligence-anfi",
     "title": "Business Intelligence Analisi Finanziaria",
     "description": "Progetto contenente Analisi Finanziaria del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "bc325ae5-09cb-4d5d-b777-150b6741b6ff",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-anfi"
   },
@@ -1912,10 +1515,7 @@
     "name": "ts-metering-expired-packages-disabler",
     "title": "ts-metering-expired-packages-disabler",
     "description": "",
-    "tags": [
-      "iso",
-      "function"
-    ],
+    "tags": ["iso", "function"],
     "uid": "bd3b73de-a573-41d4-afdb-aabce8e6bc26",
     "link": "https://development.teamsystem.com/docs/default/component/ts-metering-expired-packages-disabler"
   },
@@ -1923,11 +1523,7 @@
     "name": "m3-subscriptions-read",
     "title": "Subscriptions Read",
     "description": "Subscriptions Read API for M3 Subscription Manager",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "bef6ef15-095e-4b88-a7d1-944304bc7203",
     "link": "https://development.teamsystem.com/docs/default/component/m3-subscriptions-read"
   },
@@ -1959,9 +1555,7 @@
     "name": "StrongAuthMsg-sms",
     "title": "StrongAuth-Messaging-sms",
     "description": "Exposes API to deliver SMS messages with or without OTP, and to check OTP validity.",
-    "tags": [
-      "strongauthmsg"
-    ],
+    "tags": ["strongauthmsg"],
     "uid": "c1bdb72c-d091-43fe-a928-0b78f7f4d81a",
     "link": "https://development.teamsystem.com/docs/default/component/StrongAuthMsg-sms"
   },
@@ -1969,9 +1563,7 @@
     "name": "b2b-services-subscription-listener",
     "title": "b2b-services-subscription-listener",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "c2221a66-15e8-4056-988c-feeeabd4fbea",
     "link": "https://development.teamsystem.com/docs/default/component/b2b-services-subscription-listener"
   },
@@ -1995,13 +1587,7 @@
     "name": "ts-hr-app-guard",
     "title": "TeamSystem HR App Guard",
     "description": "Ts Hr app Guard",
-    "tags": [
-      "typescript",
-      "nodejs",
-      "mongodb",
-      "yarn",
-      "crond"
-    ],
+    "tags": ["typescript", "nodejs", "mongodb", "yarn", "crond"],
     "uid": "c4391792-d835-4005-970e-98f6ba25f0d5",
     "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-guard"
   },
@@ -2009,10 +1595,7 @@
     "name": "services-setup",
     "title": "Services Setup",
     "description": "TSDigital Services Setup deals with providing activation workflows for a registered services on TSDigital.",
-    "tags": [
-      "kotlin",
-      "micronaut"
-    ],
+    "tags": ["kotlin", "micronaut"],
     "uid": "c6635474-e083-4706-8813-b5f10fdc8348",
     "link": "https://development.teamsystem.com/docs/default/component/services-setup"
   },
@@ -2020,11 +1603,7 @@
     "name": "m3-service-catalog-read",
     "title": "Service Catalog Read",
     "description": "Service Catalog Read API for M3 Service Manager",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "c6c5ea8e-fcd6-4143-9e56-51de90550da3",
     "link": "https://development.teamsystem.com/docs/default/component/m3-service-catalog-read"
   },
@@ -2056,11 +1635,7 @@
     "name": "coldiretti-events-read",
     "title": "Coldiretti Events Read",
     "description": "This is a read API for coldiretti events DWH",
-    "tags": [
-      "coldiretti",
-      "backoffice",
-      "dwh"
-    ],
+    "tags": ["coldiretti", "backoffice", "dwh"],
     "uid": "cead6f35-09d9-4017-a535-6ace3389c24a",
     "link": "https://development.teamsystem.com/docs/default/component/coldiretti-events-read"
   },
@@ -2068,12 +1643,7 @@
     "name": "ai-international-clementine-outgoing-clustering",
     "title": "AI international Clementine Outgoing Clustering",
     "description": "ML model to predict the account code of a transaction. Project developed from Clementine team.",
-    "tags": [
-      "ai",
-      "ml",
-      "python",
-      "tensorflow"
-    ],
+    "tags": ["ai", "ml", "python", "tensorflow"],
     "uid": "d0de6c76-3251-4042-b3d3-ddcc04aec59d",
     "link": "https://development.teamsystem.com/docs/default/component/ai-international-clementine-outgoing-clustering"
   },
@@ -2081,9 +1651,7 @@
     "name": "metering-package-write",
     "title": "metering-package-write",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "d1a80f31-e0c6-49da-8398-decb735acf1f",
     "link": "https://development.teamsystem.com/docs/default/component/metering-package-write"
   },
@@ -2091,10 +1659,7 @@
     "name": "ai-assistant-app",
     "title": "AI Assistant App",
     "description": "It contains the AI Assistant App.",
-    "tags": [
-      "ai",
-      "assistant"
-    ],
+    "tags": ["ai", "assistant"],
     "uid": "d2601213-fada-4df4-90a7-deab29838c1f",
     "link": "https://development.teamsystem.com/docs/default/component/ai-assistant-app"
   },
@@ -2110,11 +1675,7 @@
     "name": "balance-sheet-classifier",
     "title": "Balance Sheet Classifier",
     "description": "Classifier trained to suggest k classifications for each CountCode",
-    "tags": [
-      "ai",
-      "ml",
-      "python"
-    ],
+    "tags": ["ai", "ml", "python"],
     "uid": "d3c6983e-df83-43e5-9d19-d7869052c56c",
     "link": "https://development.teamsystem.com/docs/default/component/balance-sheet-classifier"
   },
@@ -2122,11 +1683,7 @@
     "name": "m3-price-list-write",
     "title": "Price List Write",
     "description": "Price List Write API for M3 Subscription Manager",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "d6d728a6-092d-4d20-86ad-fb40695072ad",
     "link": "https://development.teamsystem.com/docs/default/component/m3-price-list-write"
   },
@@ -2142,12 +1699,7 @@
     "name": "business-intelligence-ciat-fsh",
     "title": "Business Intelligence Ciclo Attivo Fashion",
     "description": "Progetto contenente Ciclo Attivo Fashion del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "d6fc39cb-9100-4665-a9f2-1e1dc3aed420",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-ciat-fsh"
   },
@@ -2163,11 +1715,7 @@
     "name": "vapor-react",
     "title": "Vapor React Library",
     "description": "These libraries contains React Vapor Components made used for developing applications inside TeamSystem.",
-    "tags": [
-      "react",
-      "typescript",
-      "vapor"
-    ],
+    "tags": ["react", "typescript", "vapor"],
     "uid": "d8dd51fa-e113-4115-aa90-92c1bed7e0ad",
     "link": "https://development.teamsystem.com/docs/default/component/vapor-react"
   },
@@ -2183,12 +1731,7 @@
     "name": "business-intelligence-prod-fsh",
     "title": "Business Intelligence Produzione Fashion",
     "description": "Progetto contenente  Produzione Fashion del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "db0179fb-13f8-49f4-a117-12b590936a60",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-prod-fsh"
   },
@@ -2196,10 +1739,7 @@
     "name": "business-intelligence-backend",
     "title": "Business Intelligence Backend",
     "description": "Progetto contenente il backend del progetto Business Intelligence",
-    "tags": [
-      "nodejs16",
-      "express"
-    ],
+    "tags": ["nodejs16", "express"],
     "uid": "db93eb9b-6326-4bb6-9164-a5b33e5210c5",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-backend"
   },
@@ -2231,10 +1771,7 @@
     "name": "ts-hr-app-ios",
     "title": "TeamSystem HR App iOS",
     "description": "Ts Hr app iOS",
-    "tags": [
-      "ios",
-      "swift"
-    ],
+    "tags": ["ios", "swift"],
     "uid": "e09de726-a9a4-4205-a5f1-fe32118cfc11",
     "link": "https://development.teamsystem.com/docs/default/component/ts-hr-app-ios"
   },
@@ -2250,12 +1787,7 @@
     "name": "business-intelligence-console",
     "title": "Business Intelligence Console",
     "description": "Progetto contenente l'Console del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "e32d7820-5243-44b5-ad63-ac70ff748cd9",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-console"
   },
@@ -2263,9 +1795,7 @@
     "name": "ts-metering-usage-broker",
     "title": "ts-metering-usage-broker",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "e5bca517-9cf7-4b24-91f6-6d26429d313c",
     "link": "https://development.teamsystem.com/docs/default/component/ts-metering-usage-broker"
   },
@@ -2301,9 +1831,7 @@
     "name": "metering-consumption-read",
     "title": "metering-consumption-read",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "e8741109-7d15-4d60-9d99-e0d1a5d508ca",
     "link": "https://development.teamsystem.com/docs/default/component/metering-consumption-read"
   },
@@ -2327,11 +1855,7 @@
     "name": "m3-subscriptions-subscriber",
     "title": "Subscriptions Subscriber",
     "description": "Subscriptions Subscriber API for M3 Subscription Manager",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "ed3fc84a-f929-4888-a60c-a6c0a3926643",
     "link": "https://development.teamsystem.com/docs/default/component/m3-subscriptions-subscriber"
   },
@@ -2339,9 +1863,7 @@
     "name": "ts-metering-service",
     "title": "ts-metering-service",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "ed54018f-70a9-4182-80bd-8b026b66f702",
     "link": "https://development.teamsystem.com/docs/default/component/ts-metering-service"
   },
@@ -2357,9 +1879,7 @@
     "name": "certified-contacts-write",
     "title": "Certified Contacts Write",
     "description": "Component responsible for updating certified contacts",
-    "tags": [
-      "certified-contacts"
-    ],
+    "tags": ["certified-contacts"],
     "uid": "ef90016e-f2ba-4242-9e6a-f8ca1c710b56",
     "link": "https://development.teamsystem.com/docs/default/component/certified-contacts-write"
   },
@@ -2367,12 +1887,7 @@
     "name": "business-intelligence-login",
     "title": "Business Intelligence Login",
     "description": "Progetto contenente la login del progetto Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "f16a71c3-7858-46cc-8fd2-295fc35b4d09",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-login"
   },
@@ -2404,9 +1919,7 @@
     "name": "ts-metering-reports-generator",
     "title": "ts-metering-reports-generator",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "f4753abf-b965-4533-bb59-0e86e74941f9",
     "link": "https://development.teamsystem.com/docs/default/component/ts-metering-reports-generator"
   },
@@ -2422,11 +1935,7 @@
     "name": "m3-service-catalog-worker",
     "title": "Service Catalog Worker",
     "description": "Service Catalog Worker for M3 Service Manager",
-    "tags": [
-      "iso",
-      "kotlin",
-      "quarkus"
-    ],
+    "tags": ["iso", "kotlin", "quarkus"],
     "uid": "f7d3320e-1616-43cd-89ff-3ea339989f20",
     "link": "https://development.teamsystem.com/docs/default/component/m3-service-catalog-worker"
   },
@@ -2442,9 +1951,7 @@
     "name": "business-intelligence-installer-app",
     "title": "Business Intelligence Installer",
     "description": "Progetto contenente le utils del progetto Business Intelligence",
-    "tags": [
-      "c#"
-    ],
+    "tags": ["c#"],
     "uid": "f85d2b06-5ba3-4a82-b3f6-b7bc96470ef1",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-installer-app"
   },
@@ -2452,12 +1959,7 @@
     "name": "jiracli-ts-studio",
     "title": "JiraCLI",
     "description": "This CLI simplifies Jira interaction for legacy Cobol app installer resource list generation",
-    "tags": [
-      "jiracli",
-      "ts-studio",
-      "cobol",
-      "javascript"
-    ],
+    "tags": ["jiracli", "ts-studio", "cobol", "javascript"],
     "uid": "f8a506dd-b78e-4b83-9af2-5ce834b31c68",
     "link": "https://development.teamsystem.com/docs/default/component/jiracli-ts-studio"
   },
@@ -2465,9 +1967,7 @@
     "name": "metering-archiver-read",
     "title": "metering-archiver-read",
     "description": "",
-    "tags": [
-      "iso"
-    ],
+    "tags": ["iso"],
     "uid": "f8b70012-cbc2-4428-a18c-47e5e29abdfb",
     "link": "https://development.teamsystem.com/docs/default/component/metering-archiver-read"
   },
@@ -2499,12 +1999,7 @@
     "name": "business-intelligence-general-mashups-schema",
     "title": "Business Intelligence General Mashups Schema",
     "description": "Progetto generico che raggruppa la documentazione comune a tutte le applicazioni fisse di Enterprise Business Intelligence",
-    "tags": [
-      "angular",
-      "typescript",
-      "html",
-      "css"
-    ],
+    "tags": ["angular", "typescript", "html", "css"],
     "uid": "fe6050c2-ff71-4f41-9ce4-dfb45bcc33f8",
     "link": "https://development.teamsystem.com/docs/default/component/business-intelligence-general-mashups-schema"
   }
