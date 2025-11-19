@@ -6,7 +6,16 @@
     "department": "Engineering TeamSystem Tirana - Professional & Cross",
     "location": "TIRANA_KOMPLEKSI DELIJORGJI",
     "skills": ["ReactJS", "TSCyber", "Trust & Cyber"],
-    "expertise": ["react", "reactjs", "typescript", "javascript", "frontend", "security", "cyber security", "authentication"],
+    "expertise": [
+      "react",
+      "reactjs",
+      "typescript",
+      "javascript",
+      "frontend",
+      "security",
+      "cyber security",
+      "authentication"
+    ],
     "profileImage": "https://example.com/profiles/247$6420.jpg",
     "email": "bruno.skendaj@teamsystem.com"
   },
@@ -21,7 +30,13 @@
       "hierarchyType": "manager",
       "relationshipToBruno": "Direct Manager",
       "skills": ["Software Architecture", "Department Management"],
-      "expertise": ["software architecture", "backend", "microservices", "technical leadership", "engineering"],
+      "expertise": [
+        "software architecture",
+        "backend",
+        "microservices",
+        "technical leadership",
+        "engineering"
+      ],
       "teamSize": 76,
       "profileImage": "https://example.com/profiles/247$3718.jpg",
       "email": "elis.pelivani@teamsystem.com"
@@ -35,8 +50,20 @@
       "hierarchyLevel": 0,
       "hierarchyType": "peer",
       "relationshipToBruno": "Peer - Team Lead",
-      "skills": ["Team Leadership", "Project Management", "Software Development"],
-      "expertise": ["ai", "ml", "machine learning", "business intelligence", "analytics", "python", "team leadership"],
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Software Development"
+      ],
+      "expertise": [
+        "ai",
+        "ml",
+        "machine learning",
+        "business intelligence",
+        "analytics",
+        "python",
+        "team leadership"
+      ],
       "teamSize": 29,
       "profileImage": "https://example.com/profiles/247$3666.jpg",
       "email": "ira.hysaj@teamsystem.com"
@@ -50,8 +77,19 @@
       "hierarchyLevel": 0,
       "hierarchyType": "peer",
       "relationshipToBruno": "Peer - Team Lead",
-      "skills": ["Team Leadership", "Project Management", "Software Development"],
-      "expertise": ["python", "backend", "payroll", "api development", "microservices", "team leadership"],
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Software Development"
+      ],
+      "expertise": [
+        "python",
+        "backend",
+        "payroll",
+        "api development",
+        "microservices",
+        "team leadership"
+      ],
       "teamSize": 32,
       "profileImage": "https://example.com/profiles/247$4924.jpg",
       "email": "klaus.kalemi@teamsystem.com"
@@ -65,8 +103,18 @@
       "hierarchyLevel": 2,
       "hierarchyType": "senior_manager",
       "relationshipToBruno": "Manager's Manager",
-      "skills": ["Team Leadership", "Project Management", "Software Development"],
-      "expertise": ["engineering", "software development", "project management", "team leadership", "technical management"],
+      "skills": [
+        "Team Leadership",
+        "Project Management",
+        "Software Development"
+      ],
+      "expertise": [
+        "engineering",
+        "software development",
+        "project management",
+        "team leadership",
+        "technical management"
+      ],
       "teamSize": 3,
       "profileImage": "https://example.com/profiles/247$6963.jpg",
       "email": "luca.dandria@teamsystem.com"
@@ -80,8 +128,17 @@
       "hierarchyLevel": 3,
       "hierarchyType": "department_head",
       "relationshipToBruno": "Department Leader",
-      "skills": ["Department Management", "Cross-functional Leadership", "Operational Excellence"],
-      "expertise": ["department management", "operations", "cross-functional teams", "leadership"],
+      "skills": [
+        "Department Management",
+        "Cross-functional Leadership",
+        "Operational Excellence"
+      ],
+      "expertise": [
+        "department management",
+        "operations",
+        "cross-functional teams",
+        "leadership"
+      ],
       "teamSize": 12,
       "profileImage": "https://example.com/profiles/247$3628.jpg",
       "email": "bruno.fonzi@teamsystem.com"
@@ -95,8 +152,18 @@
       "hierarchyLevel": 4,
       "hierarchyType": "executive",
       "relationshipToBruno": "Executive Level",
-      "skills": ["Corporate Strategy", "Financial Management", "Technology Innovation"],
-      "expertise": ["finance", "marketing", "technology", "innovation", "corporate strategy"],
+      "skills": [
+        "Corporate Strategy",
+        "Financial Management",
+        "Technology Innovation"
+      ],
+      "expertise": [
+        "finance",
+        "marketing",
+        "technology",
+        "innovation",
+        "corporate strategy"
+      ],
       "teamSize": 7,
       "profileImage": "https://example.com/profiles/247$3554.jpg",
       "email": "tommaso.cohen@teamsystem.com"
@@ -111,7 +178,12 @@
       "hierarchyType": "ceo",
       "relationshipToBruno": "CEO",
       "skills": ["Leadership", "Strategic Planning", "Business Development"],
-      "expertise": ["strategy", "business", "leadership", "executive decisions"],
+      "expertise": [
+        "strategy",
+        "business",
+        "leadership",
+        "executive decisions"
+      ],
       "teamSize": 17,
       "profileImage": "https://example.com/profiles/247$3572.jpg",
       "email": "federico.leproux@teamsystem.com"
@@ -126,7 +198,17 @@
       "hierarchyType": "support",
       "relationshipToBruno": "HR Support",
       "skills": ["Human Resources", "People Management", "Employee Relations"],
-      "expertise": ["hr", "human resources", "payroll hr", "benefits", "onboarding", "employee relations", "hiring", "people management", "processes"],
+      "expertise": [
+        "hr",
+        "human resources",
+        "payroll hr",
+        "benefits",
+        "onboarding",
+        "employee relations",
+        "hiring",
+        "people management",
+        "processes"
+      ],
       "teamSize": 5,
       "profileImage": "https://example.com/profiles/hr_eleonora_tonelli.jpg",
       "email": "eleonora.tonelli@teamsystem.com",
@@ -141,8 +223,19 @@
       "hierarchyLevel": 0,
       "hierarchyType": "specialist",
       "relationshipToBruno": "Technical Specialist - Vapor Library",
-      "skills": ["Library Development", "Component Architecture", "Technical Documentation"],
-      "expertise": ["vapor", "vapor library", "ui components", "design systems", "libraries", "frontend architecture"],
+      "skills": [
+        "Library Development",
+        "Component Architecture",
+        "Technical Documentation"
+      ],
+      "expertise": [
+        "vapor",
+        "vapor library",
+        "ui components",
+        "design systems",
+        "libraries",
+        "frontend architecture"
+      ],
       "teamSize": 0,
       "profileImage": "https://example.com/profiles/tech_enea_aliko.jpg",
       "email": "enea.aliko@teamsystem.com",
