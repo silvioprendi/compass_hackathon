@@ -2,7 +2,10 @@ import { Injectable, Logger } from '@nestjs/common';
 import { readFileSync } from 'fs';
 import { join } from 'path';
 import { ContactsService, Contact } from '../contacts/contacts.service';
-import { DevPortalService, DevPortalDoc } from '../dev-portal/dev-portal.service';
+import {
+  DevPortalService,
+  DevPortalDoc,
+} from '../dev-portal/dev-portal.service';
 
 export interface QnAItem {
   id: string;
@@ -59,8 +62,11 @@ export class QnAService {
 
     if (matchedQnA) {
       this.logger.log(`Found exact match for question: ${matchedQnA.id}`);
-      
-      const contacts = this.findRelatedContacts(matchedQnA.relatedSkills, currentUserId);
+
+      const contacts = this.findRelatedContacts(
+        matchedQnA.relatedSkills,
+        currentUserId,
+      );
       const docs = this.findRelatedDocs(matchedQnA.relatedTags);
 
       return {
@@ -74,14 +80,15 @@ export class QnAService {
       };
     } else {
       this.logger.log(`No exact match found, searching for help...`);
-      
+
       const keywords = this.extractKeywords(searchTerm);
       const contacts = this.findContactsByKeywords(keywords, currentUserId);
       const docs = this.findDocsByKeywords(keywords);
 
       return {
         found: false,
-        message: "I don't have an exact answer, but here are some people who might help and related documentation:",
+        message:
+          "I don't have an exact answer, but here are some people who might help and related documentation:",
         suggestedContacts: contacts,
         relatedDocs: docs,
       };
@@ -94,9 +101,12 @@ export class QnAService {
         return item;
       }
 
-      const matchesKeyword = item.keywords.some((keyword) =>
-        searchTerm.includes(keyword.toLowerCase()),
-      );
+      const matchesKeyword = item.keywords.some((keyword) => {
+        const keywordLower = keyword.toLowerCase();
+        return (
+          searchTerm.includes(keywordLower) || keywordLower.includes(searchTerm)
+        );
+      });
       if (matchesKeyword) {
         return item;
       }
@@ -105,20 +115,42 @@ export class QnAService {
   }
 
   private extractKeywords(text: string): string[] {
-    const stopWords = ['how', 'to', 'what', 'is', 'the', 'a', 'an', 'can', 'i', 'do', 'in', 'with', 'for'];
+    const stopWords = [
+      'how',
+      'to',
+      'what',
+      'is',
+      'the',
+      'a',
+      'an',
+      'can',
+      'i',
+      'do',
+      'in',
+      'with',
+      'for',
+    ];
     const normalized = text.replace(/-/g, ' ');
-    const words = normalized.split(/\s+/).filter((word) => 
-      word.length > 2 && !stopWords.includes(word.toLowerCase())
-    );
+    const words = normalized
+      .split(/\s+/)
+      .filter(
+        (word) => word.length > 2 && !stopWords.includes(word.toLowerCase()),
+      );
     return words;
   }
 
-  private findRelatedContacts(skills: string[], currentUserId?: string): Contact[] {
+  private findRelatedContacts(
+    skills: string[],
+    currentUserId?: string,
+  ): Contact[] {
     const contacts: Contact[] = [];
     const addedIds = new Set<string>();
 
     for (const skill of skills) {
-      const matchedContacts = this.contactsService.searchBySkillsAndExpertise(skill, currentUserId);
+      const matchedContacts = this.contactsService.searchBySkillsAndExpertise(
+        skill,
+        currentUserId,
+      );
       for (const contact of matchedContacts.slice(0, 3)) {
         if (!addedIds.has(contact.id)) {
           contacts.push(contact);
@@ -147,12 +179,18 @@ export class QnAService {
     return docs.slice(0, 5);
   }
 
-  private findContactsByKeywords(keywords: string[], currentUserId?: string): Contact[] {
+  private findContactsByKeywords(
+    keywords: string[],
+    currentUserId?: string,
+  ): Contact[] {
     const contacts: Contact[] = [];
     const addedIds = new Set<string>();
 
     for (const keyword of keywords) {
-      const matchedContacts = this.contactsService.searchBySkillsAndExpertise(keyword, currentUserId);
+      const matchedContacts = this.contactsService.searchBySkillsAndExpertise(
+        keyword,
+        currentUserId,
+      );
       for (const contact of matchedContacts.slice(0, 2)) {
         if (!addedIds.has(contact.id)) {
           contacts.push(contact);

@@ -1,7 +1,7 @@
 [
   {
     "id": "vapor-migrate-v2-v3",
-    "question": "How To Migrate a Contrib Project from Vapor 2 to Vapor 3",
+    "question": "How to migrate a project to Vapor 3",
     "keywords": ["vapor", "migrate", "migration", "vapor 2", "vapor 3", "upgrade"],
     "summary": "Remove old Vapor 2 dependencies, install @vapor/v3-components, update rollup, tsconfig and CI configs. Follow the new versioning rules.",
     "answer": "To migrate from Vapor 2 to Vapor 3:\n1. Remove old Vapor 2 dependencies\n2. Install @vapor/v3-components\n3. Update rollup configuration\n4. Update tsconfig.json\n5. Update CI configs\n6. Follow the new versioning rules",
@@ -11,7 +11,7 @@
   },
   {
     "id": "vapor-new-project",
-    "question": "How To Create a New Project - Vapor Components for React",
+    "question": "How to create a new project with Vapor",
     "keywords": ["vapor", "create", "new project", "react", "setup", "initialize"],
     "summary": "To create a new Vapor contrib project, request a maintainer to set it up, configure branches (main/develop), and set repository rules. Initialize files like package.json, .editorconfig, rollup.config.js.",
     "answer": "To create a new Vapor contrib project:\n1. Request a maintainer to set up the repository\n2. Configure branches (main/develop)\n3. Set repository rules\n4. Initialize package.json\n5. Add .editorconfig\n6. Configure rollup.config.js\n7. Set up initial project structure",
@@ -28,5 +28,35 @@
     "fullGuideLink": "https://development.teamsystem.com/docs/default/component/vapor-react/create-contrib-component",
     "relatedSkills": ["vapor", "react", "typescript", "frontend", "storybook", "ui components"],
     "relatedTags": ["vapor", "react", "typescript", "angular"]
+  },
+  {
+    "id": "medical-leave",
+    "question": "How do I request medical leave?",
+    "keywords": ["medical", "leave", "sick", "time off", "absence", "hr", "request"],
+    "summary": "To request medical leave, contact HR department. Submit your request through the HR portal or directly to your HR representative with required medical documentation.",
+    "answer": "To request medical leave:\n1. Contact HR department (ELEONORA TONELLI)\n2. Access the HR portal or email your HR representative\n3. Provide medical documentation if required\n4. Specify the duration and start date of your leave\n5. Wait for approval confirmation\n6. Keep your manager informed\n\nFor urgent cases, contact HR directly via email or phone.",
+    "fullGuideLink": "https://teamsystem.com/hr-policies/leave-requests",
+    "relatedSkills": ["hr", "human resources", "leaves", "medical", "time off"],
+    "relatedTags": []
+  },
+  {
+    "id": "performance-reviews",
+    "question": "Who manages performance reviews?",
+    "keywords": ["performance", "review", "evaluation", "manager", "assessment"],
+    "summary": "Performance reviews are managed by your direct manager in collaboration with HR. Reviews typically occur annually or bi-annually.",
+    "answer": "Performance reviews are handled by:\n1. Your direct manager (ELIS PELIVANI) conducts the review\n2. HR department (ELEONORA TONELLI) coordinates the process\n3. Reviews include self-assessment and manager evaluation\n4. Schedule is set by HR department\n5. Results are discussed in one-on-one meetings\n\nContact your manager or HR for questions about the review process, timeline, or documentation.",
+    "fullGuideLink": "https://teamsystem.com/hr-policies/performance-reviews",
+    "relatedSkills": ["performance review", "performance reviews", "performance", "technical leadership", "hr"],
+    "relatedTags": []
+  },
+  {
+    "id": "cisco-vpn-issue",
+    "question": "I cannot connect to Cisco VPN",
+    "keywords": ["cisco", "vpn", "connection", "network", "access", "it", "support"],
+    "summary": "For VPN connection issues, contact IT Support. Common solutions include checking credentials, updating the Cisco client, and verifying network settings.",
+    "answer": "To resolve Cisco VPN connection issues:\n1. Verify your username and password are correct\n2. Check if your Cisco VPN client is up to date\n3. Ensure you have stable internet connection\n4. Try restarting the VPN client\n5. Check firewall settings\n6. Contact IT Support (MOISI TRUNGU) if issue persists\n\nIT Support can help with:\n- VPN credentials reset\n- Client software installation/update\n- Network configuration\n- Access permissions",
+    "fullGuideLink": "https://teamsystem.com/it-support/vpn-troubleshooting",
+    "relatedSkills": ["it support", "vpn", "cisco", "network", "troubleshooting"],
+    "relatedTags": []
   }
 ]
