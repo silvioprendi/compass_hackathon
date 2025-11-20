@@ -219,7 +219,7 @@
     },
     {
       "id": "tech_001",
-      "name": "ENEA ALIKO",
+      "name": "SILVIO PRENDI",
       "role": "Technical Specialist",
       "department": "Engineering",
       "location": "TIRANA_KOMPLEKSI DELIJORGJI",
@@ -240,7 +240,7 @@
         "frontend architecture"
       ],
       "teamSize": 0,
-      "email": "e.aliko@teamsystem.com",
+      "email": "s.prendi@teamsystem.com",
       "specialization": "Vapor Library"
     },
     {
@@ -396,7 +396,7 @@
       "contacts": [
         {
           "id": "tech_001",
-          "name": "ENEA ALIKO",
+          "name": "SILVIO PRENDI",
           "specialization": "Vapor Library"
         }
       ]
